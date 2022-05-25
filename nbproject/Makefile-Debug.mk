@@ -67,7 +67,7 @@ LDLIBSOPTIONS=
 
 ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gamechat: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
-	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gamechat ${OBJECTFILES} ${LDLIBSOPTIONS} -static-libgcc -lpthread -lcrypto -ljsoncpp
+	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gamechat ${OBJECTFILES} ${LDLIBSOPTIONS} -static-libgcc -lpthread -lcrypto -ljsoncpp -lboost_system
 
 ${OBJECTDIR}/src/BoostTCPServer.o: src/BoostTCPServer.cpp
 	${MKDIR} -p ${OBJECTDIR}/src
