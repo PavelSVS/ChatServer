@@ -57,7 +57,7 @@
           <commandLine>-std=c++17 -Wdeprecated-declarations</commandLine>
         </ccTool>
         <linkerTool>
-          <commandLine>-static-libstdc++ -static-libgcc -lpthread -lcrypto -ljsoncpp</commandLine>
+          <commandLine>-static-libgcc -lpthread -lcrypto -ljsoncpp</commandLine>
         </linkerTool>
       </compileType>
       <item path="includes/AsioWSServer.h" ex="false" tool="3" flavor2="0">
