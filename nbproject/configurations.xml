@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>includes/AsioWSServer.h</itemPath>
+      <itemPath>includes/BoostTCPServer.h</itemPath>
+      <itemPath>includes/BoostTCPSession.h</itemPath>
+      <itemPath>includes/Chat.h</itemPath>
+      <itemPath>includes/Logger.h</itemPath>
+      <itemPath>includes/WebsocketServer.h</itemPath>
+      <itemPath>includes/WsClientData.h</itemPath>
+      <itemPath>includes/base64.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>src/BoostTCPServer.cpp</itemPath>
+      <itemPath>src/BoostTCPSession.cpp</itemPath>
+      <itemPath>src/Chat.cpp</itemPath>
+      <itemPath>src/Logger.cpp</itemPath>
+      <itemPath>src/WebsocketServer.cpp</itemPath>
+      <itemPath>src/WsClientData.cpp</itemPath>
+      <itemPath>src/base64.cpp</itemPath>
+      <itemPath>src/main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>includes</pElem>
+          </incDir>
+          <commandLine>-std=c++17 -Wdeprecated-declarations</commandLine>
+        </ccTool>
+        <linkerTool>
+          <commandLine>-static-libstdc++ -static-libgcc -lpthread -ltacopie -lcrypto -ljsoncpp</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="includes/AsioWSServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/BoostTCPServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/BoostTCPSession.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/Chat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/Logger.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/WebsocketServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/WsClientData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/base64.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/BoostTCPServer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/BoostTCPSession.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Chat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Logger.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/WebsocketServer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/WsClientData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/base64.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="includes/AsioWSServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/BoostTCPServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/BoostTCPSession.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/Chat.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/Logger.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/WebsocketServer.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/WsClientData.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/base64.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/BoostTCPServer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/BoostTCPSession.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Chat.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Logger.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/WebsocketServer.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/WsClientData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/base64.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
