@@ -27,8 +27,14 @@ std::string randomString(const int len) {
 }
 
 Chat::Chat(){
-
+    this->redisHost = "127.0.0.1";
+    this->redisPort = 6379;
+    this->redisChannel = "system";
+    this->redis.setOnConnectCallback(onConnectRedis);
+    this->redis.setOnSubscribeCallback(onSubscribeRedis);
+    this->redis.setOnMessageCallback(onMessageRedis);
     
+    this->redis.init(this->redisHost, this->redisPort, this->redisChannel, "", this);   
 }
 
 Chat::~Chat(){
@@ -630,3 +636,78 @@ command_t* Chat::parseCommand(string command)
     
 }
 
+////////////////// REDIS //////////////////////////////
+/*
+ * Callback on Redis connection event
+ * arg - points on us
+ */
+void Chat::onConnectRedis(void* arg){
+    Redis* rd = (Redis*) arg;
+    Chat* self = (Chat*) rd->aux;
+    logMessage(LOGGER_DEBUG, "Chat::onConnectRedis()");
+}
+
+/*
+ * When subscribed to Redis control channel
+ * arg - points on us
+ */
+void Chat::onSubscribeRedis(void* arg){
+    logMessage(LOGGER_DEBUG, "Bridge::onSubscribeRedis()");
+    Redis* rd = (Redis*) arg;
+    Chat* self = (Chat*) rd->aux;
+}
+
+/*
+ * When Redis control channel message reсeived
+ * chan - channel name
+ * msg - message
+ * arg - points on us
+ */
+void Chat::onMessageRedis(string chan, string msg, void* arg){
+    Redis* rd = (Redis*) arg;
+    Chat* self = (Chat*) rd->aux;
+    logMessage(LOGGER_DEBUG, "Bridge::onMessageRedis() => %s", msg.c_str());
+
+//    Json::Value root;
+//    string errors;
+//    Json::CharReaderBuilder builder;
+//    Json::CharReader * reader = builder.newCharReader();
+    
+    try{
+//        reader->parse(msg.c_str(), msg.c_str() + msg.size(), &root, &errors); // разбираем сообщение на поля
+//        delete reader;
+//        reader = NULL;
+        string message = "{\"type\":\"broadcast\",\"id\":\"system/quest\",\"message\":" + msg + "}";
+        
+        self->server.broadcast(message.data(), message.length(), false);
+        //logMessage(LOGGER_DEBUG, "Bridge::onMessageRedis() %s", message.c_str());
+/*
+        if (root.isMember("type")){
+//        logMessage(LOGGER_DEBUG, "Bridge::onMessageRedis() has type");
+            Json::Value t = root["type"];
+            string type;
+            type.assign(t.asCString());
+//        logMessage(LOGGER_DEBUG, "Bridge::onMessageRedis() type => %s", type.c_str());
+            self->clientMutex.lock();
+            if (self->clients.size() > 0){
+                string data = "{\"error\":\"No data!\"}";
+                if (root.isMember("data")){
+//                    logMessage(LOGGER_DEBUG, "Bridge::onMessageRedis() has type");
+                    Json::Value d = root["data"];
+                    Json::StreamWriterBuilder builderWriter;
+                    data = Json::writeString(builderWriter, d);
+                }
+                for (auto& it : self->clients){
+                    if (it.second.path.compare(type) == 0){
+                        //self->sendMessageBySocket(it.first, data, false);
+                    }
+                }
+            }
+            self->clientMutex.unlock();
+        }
+ * */
+        return;            
+    } catch(const std::exception& ex){
+        std::cout << "Exception: " << ex.what() << endl;
+    }
+}

@@ -21,6 +21,7 @@
 #include <jsoncpp/json/json.h>
 
 #include "WebsocketServer.h"
+#include "Redis.h"
 #include "Logger.h"
 
 using namespace std;
@@ -62,6 +63,12 @@ class Chat{
         void init(uint16_t port);
         void run();
     protected:
+        Redis redis;
+        string redisHost;
+        uint16_t redisPort;
+        string redisChannel;
+        string redisPassword;
+        
         WebsocketServer server;
         uint16_t port;
         string listenInterface;
@@ -99,6 +106,10 @@ class Chat{
         static void webSocketData(int socket, void* buf, int nBytes, void* arg);
         static void* webSocketClose(int socket, void* arg);
         static void onWebsocketConnected(int socket, string params, char ip[], void* aux);
+
+        static void onConnectRedis(void* arg);
+        static void onMessageRedis(string chan, string msg, void* arg);
+        static void onSubscribeRedis(void* arg);
 
 };
 

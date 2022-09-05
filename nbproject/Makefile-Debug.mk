@@ -39,6 +39,7 @@ OBJECTFILES= \
 	${OBJECTDIR}/src/BoostTCPSession.o \
 	${OBJECTDIR}/src/Chat.o \
 	${OBJECTDIR}/src/Logger.o \
+	${OBJECTDIR}/src/Redis.o \
 	${OBJECTDIR}/src/WebsocketServer.o \
 	${OBJECTDIR}/src/WsClientData.o \
 	${OBJECTDIR}/src/base64.o \
@@ -63,11 +64,11 @@ LDLIBSOPTIONS=
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS}
-	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gamechat
+	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/chatserver
 
-${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gamechat: ${OBJECTFILES}
+${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/chatserver: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
-	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/gamechat ${OBJECTFILES} ${LDLIBSOPTIONS} -static-libgcc -lpthread -lcrypto -ljsoncpp -lboost_system
+	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/chatserver ${OBJECTFILES} ${LDLIBSOPTIONS} -static-libgcc -lpthread -lcpp_redis -ltacopie -lcrypto -ljsoncpp -lboost_system
 
 ${OBJECTDIR}/src/BoostTCPServer.o: src/BoostTCPServer.cpp
 	${MKDIR} -p ${OBJECTDIR}/src
@@ -88,6 +89,11 @@ ${OBJECTDIR}/src/Logger.o: src/Logger.cpp
 	${MKDIR} -p ${OBJECTDIR}/src
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -Iincludes -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/src/Logger.o src/Logger.cpp
+
+${OBJECTDIR}/src/Redis.o: src/Redis.cpp
+	${MKDIR} -p ${OBJECTDIR}/src
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -Iincludes -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/src/Redis.o src/Redis.cpp
 
 ${OBJECTDIR}/src/WebsocketServer.o: src/WebsocketServer.cpp
 	${MKDIR} -p ${OBJECTDIR}/src

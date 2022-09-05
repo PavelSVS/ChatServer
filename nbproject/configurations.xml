@@ -9,6 +9,7 @@
       <itemPath>includes/BoostTCPSession.h</itemPath>
       <itemPath>includes/Chat.h</itemPath>
       <itemPath>includes/Logger.h</itemPath>
+      <itemPath>includes/Redis.h</itemPath>
       <itemPath>includes/WebsocketServer.h</itemPath>
       <itemPath>includes/WsClientData.h</itemPath>
       <itemPath>includes/base64.h</itemPath>
@@ -24,6 +25,7 @@
       <itemPath>src/BoostTCPSession.cpp</itemPath>
       <itemPath>src/Chat.cpp</itemPath>
       <itemPath>src/Logger.cpp</itemPath>
+      <itemPath>src/Redis.cpp</itemPath>
       <itemPath>src/WebsocketServer.cpp</itemPath>
       <itemPath>src/WsClientData.cpp</itemPath>
       <itemPath>src/base64.cpp</itemPath>
@@ -57,7 +59,7 @@
           <commandLine>-std=c++17 -Wdeprecated-declarations</commandLine>
         </ccTool>
         <linkerTool>
-          <commandLine>-static-libgcc -lpthread -lcrypto -ljsoncpp -lboost_system</commandLine>
+          <commandLine>-static-libgcc -lpthread -lcpp_redis -ltacopie -lcrypto -ljsoncpp -lboost_system</commandLine>
         </linkerTool>
       </compileType>
       <item path="includes/AsioWSServer.h" ex="false" tool="3" flavor2="0">
@@ -69,6 +71,8 @@
       <item path="includes/Chat.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="includes/Logger.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="includes/Redis.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="includes/WebsocketServer.h" ex="false" tool="3" flavor2="0">
       </item>
@@ -83,6 +87,8 @@
       <item path="src/Chat.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Logger.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Redis.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/WebsocketServer.cpp" ex="false" tool="1" flavor2="0">
       </item>
@@ -123,6 +129,8 @@
       </item>
       <item path="includes/Logger.h" ex="false" tool="3" flavor2="0">
       </item>
+      <item path="includes/Redis.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="includes/WebsocketServer.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="includes/WsClientData.h" ex="false" tool="3" flavor2="0">
@@ -136,6 +144,8 @@
       <item path="src/Chat.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/Logger.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="src/Redis.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="src/WebsocketServer.cpp" ex="false" tool="1" flavor2="0">
       </item>

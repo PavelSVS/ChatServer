@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=gamechat
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/gamechat
+CND_ARTIFACT_NAME_Debug=chatserver
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/chatserver
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=gamechat.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/gamechat.tar
+CND_PACKAGE_NAME_Debug=chatserver.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/chatserver.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=gamechat
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/gamechat
+CND_ARTIFACT_NAME_Release=chatserver
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/chatserver
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=gamechat.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/gamechat.tar
+CND_PACKAGE_NAME_Release=chatserver.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/chatserver.tar
 #
 # include compiler specific variables
 #

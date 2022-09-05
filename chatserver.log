@@ -1,0 +1,3507 @@
+Cloudsgoods Websocket Chat Server v1.0
+Listening port: 8888
+2022-07-21 09:25:24|Initializing Websocket 0.0.0.0:8888..
+2022-07-21 09:25:24|Starting Websocket server..
+Press Ctrl-C to quit
+2022-07-21 09:25:24|BoostTCPServer::async_accept()
+2022-07-21 09:45:43|BoostTCPServer::async_accept()
+2022-07-21 09:45:43|Connected client ID: 38 session: 01385f15fd9601ab
+
+2022-07-21 09:45:51|Command received: broadcast
+
+2022-07-21 09:45:56|Command received: broadcast
+
+2022-07-21 09:46:23|Command received: broadcast
+
+2022-07-21 09:46:27|Command received: broadcast
+
+2022-07-21 09:46:30|Command received: broadcast
+
+2022-07-21 09:46:52|removeFromAllRooms(): 38
+
+2022-07-21 09:46:52|removeFromAllRooms(): done n
+2022-07-21 12:11:25|BoostTCPServer::async_accept()
+2022-07-21 12:11:25|Connected client ID: 38 session: 2e305701f196acf8
+
+2022-07-21 12:11:55|removeFromAllRooms(): 38
+
+2022-07-21 12:11:55|removeFromAllRooms(): done n
+2022-07-21 12:35:53|BoostTCPServer::async_accept()
+2022-07-21 12:35:53|Connected client ID: 38 session: 0bde29ea6d74aefa
+
+2022-07-21 12:38:29|removeFromAllRooms(): 38
+
+2022-07-21 12:38:29|removeFromAllRooms(): done n
+2022-07-21 12:39:57|BoostTCPServer::async_accept()
+2022-07-21 12:39:57|Connected client ID: 38 session: df1b83bf3de9c357
+
+2022-07-21 12:42:09|removeFromAllRooms(): 38
+
+2022-07-21 12:42:09|removeFromAllRooms(): done n
+2022-07-21 12:53:15|BoostTCPServer::async_accept()
+2022-07-21 12:53:15|Connected client ID: 38 session: ae10d1593f66df55
+
+2022-07-21 12:58:59|removeFromAllRooms(): 38
+
+2022-07-21 12:58:59|removeFromAllRooms(): done n
+2022-07-21 13:23:48|BoostTCPServer::async_accept()
+2022-07-21 13:23:48|Connected client ID: 38 session: f87abc71d395fcb7
+
+2022-07-21 13:25:47|removeFromAllRooms(): 38
+
+2022-07-21 13:25:47|removeFromAllRooms(): done n
+2022-07-21 14:04:11|BoostTCPServer::async_accept()
+2022-07-21 14:04:11|Connected client ID: 38 session: 36ec98d120cf850d
+
+2022-07-21 14:04:36|removeFromAllRooms(): 38
+
+2022-07-21 14:04:36|removeFromAllRooms(): done n
+2022-07-21 14:08:33|BoostTCPServer::async_accept()
+2022-07-21 14:08:33|Connected client ID: 38 session: 5f952b2e3678f1e6
+
+2022-07-21 14:13:18|Command received: broadcast
+
+2022-07-21 14:13:24|Command received: broadcast
+
+2022-07-21 14:13:28|Command received: broadcast
+
+2022-07-21 14:13:32|Command received: broadcast
+
+2022-07-21 14:14:03|removeFromAllRooms(): 38
+
+2022-07-21 14:14:03|removeFromAllRooms(): done n
+2022-07-21 16:02:10|BoostTCPServer::async_accept()
+2022-07-21 16:02:10|Connected client ID: 38 session: dd692bc35c598ce8
+
+2022-07-21 16:06:41|removeFromAllRooms(): 38
+
+2022-07-21 16:06:41|removeFromAllRooms(): done n
+2022-07-22 07:31:14|BoostTCPServer::async_accept()
+2022-07-22 07:31:14|Connected client ID: 38 session: c1133209e5972a2a
+
+2022-07-22 07:33:07|removeFromAllRooms(): 38
+
+2022-07-22 07:33:07|removeFromAllRooms(): done n
+2022-07-22 07:34:18|BoostTCPServer::async_accept()
+2022-07-22 07:34:18|Connected client ID: 38 session: a1bc40b2fb7325dc
+
+2022-07-22 07:34:43|removeFromAllRooms(): 38
+
+2022-07-22 07:34:43|removeFromAllRooms(): done n
+2022-07-22 07:34:59|BoostTCPServer::async_accept()
+2022-07-22 07:34:59|Connected client ID: 38 session: 2a69fe50e02bbdac
+
+2022-07-22 07:46:34|removeFromAllRooms(): 38
+
+2022-07-22 07:46:34|removeFromAllRooms(): done n
+2022-07-22 09:04:24|BoostTCPServer::async_accept()
+2022-07-22 09:04:24|Connected client ID: 38 session: 764f7b65727f04b0
+
+2022-07-22 09:05:10|removeFromAllRooms(): 38
+
+2022-07-22 09:05:10|removeFromAllRooms(): done n
+2022-07-22 09:19:11|BoostTCPServer::async_accept()
+2022-07-22 09:19:11|Connected client ID: 38 session: 8d8ddaefbfb1563a
+
+2022-07-22 09:19:46|removeFromAllRooms(): 38
+
+2022-07-22 09:19:46|removeFromAllRooms(): done n
+2022-07-22 09:54:57|BoostTCPServer::async_accept()
+2022-07-22 09:54:57|Connected client ID: 38 session: 6db6b48354e511ed
+
+2022-07-22 09:58:55|removeFromAllRooms(): 38
+
+2022-07-22 09:58:55|removeFromAllRooms(): done n
+2022-07-22 10:06:46|BoostTCPServer::async_accept()
+2022-07-22 10:06:46|Connected client ID: 38 session: edd3b524c00b0323
+
+2022-07-22 10:09:02|removeFromAllRooms(): 38
+
+2022-07-22 10:09:02|removeFromAllRooms(): done n
+2022-07-22 11:05:21|BoostTCPServer::async_accept()
+2022-07-22 11:05:21|Connected client ID: 38 session: 0da8473a967cd512
+
+2022-07-22 11:09:36|BoostTCPServer::async_accept()
+2022-07-22 11:09:36|Connected client ID: 32 session: 4018812b2a729f04
+
+2022-07-22 11:13:32|Command received: broadcast
+
+2022-07-22 11:13:39|Command received: broadcast
+
+2022-07-22 11:13:46|Command received: broadcast
+
+2022-07-22 11:13:48|Command received: broadcast
+
+2022-07-22 11:13:52|Command received: broadcast
+
+2022-07-22 11:13:54|Command received: broadcast
+
+2022-07-22 11:14:15|Command received: broadcast
+
+2022-07-22 11:14:21|Command received: broadcast
+
+2022-07-22 11:14:40|Command received: broadcast
+
+2022-07-22 11:14:44|Command received: broadcast
+
+2022-07-22 11:14:44|Command received: broadcast
+
+2022-07-22 11:14:48|Command received: broadcast
+
+2022-07-22 11:14:51|Command received: broadcast
+
+2022-07-22 11:14:51|Command received: broadcast
+
+2022-07-22 11:15:01|Command received: broadcast
+
+2022-07-22 11:15:14|Command received: broadcast
+
+2022-07-22 11:15:16|Command received: broadcast
+
+2022-07-22 11:15:25|Command received: broadcast
+
+2022-07-22 11:15:28|Command received: broadcast
+
+2022-07-22 11:15:35|Command received: broadcast
+
+2022-07-22 11:15:44|removeFromAllRooms(): 32
+
+2022-07-22 11:15:44|removeFromAllRooms(): done n
+2022-07-22 11:15:48|removeFromAllRooms(): 38
+
+2022-07-22 11:15:48|removeFromAllRooms(): done n
+2022-07-22 11:16:02|BoostTCPServer::async_accept()
+2022-07-22 11:16:02|Connected client ID: 32 session: 2d649059a5ea9cf2
+
+2022-07-22 11:16:25|removeFromAllRooms(): 32
+
+2022-07-22 11:16:25|removeFromAllRooms(): done n
+2022-07-22 11:16:26|BoostTCPServer::async_accept()
+2022-07-22 11:16:26|Connected client ID: 38 session: 9b489540c06d66ff
+
+2022-07-22 11:16:37|BoostTCPServer::async_accept()
+2022-07-22 11:16:37|Connected client ID: 32 session: 92f9660655d5360f
+
+2022-07-22 11:18:19|removeFromAllRooms(): 38
+
+2022-07-22 11:18:19|removeFromAllRooms(): done n
+2022-07-22 11:18:53|removeFromAllRooms(): 32
+
+2022-07-22 11:18:53|removeFromAllRooms(): done n
+2022-07-22 11:19:21|BoostTCPServer::async_accept()
+2022-07-22 11:19:21|Connected client ID: 32 session: 4f4c2a2951bab1de
+
+2022-07-22 11:19:27|BoostTCPServer::async_accept()
+2022-07-22 11:19:27|Connected client ID: 38 session: d70915fbb9015d41
+
+2022-07-22 11:19:40|removeFromAllRooms(): 38
+
+2022-07-22 11:19:40|removeFromAllRooms(): done n
+2022-07-22 11:20:06|removeFromAllRooms(): 32
+
+2022-07-22 11:20:06|removeFromAllRooms(): done n
+2022-07-22 11:20:27|BoostTCPServer::async_accept()
+2022-07-22 11:20:27|Connected client ID: 38 session: deb68d1f3010fe0e
+
+2022-07-22 11:20:27|BoostTCPServer::async_accept()
+2022-07-22 11:20:27|Connected client ID: 32 session: 5074da0be7565847
+
+2022-07-22 11:20:40|removeFromAllRooms(): 38
+
+2022-07-22 11:20:40|removeFromAllRooms(): done n
+2022-07-22 11:21:10|removeFromAllRooms(): 32
+
+2022-07-22 11:21:10|removeFromAllRooms(): done n
+2022-07-22 11:21:34|BoostTCPServer::async_accept()
+2022-07-22 11:21:34|Connected client ID: 32 session: a0246c0b7463a07e
+
+2022-07-22 11:21:37|BoostTCPServer::async_accept()
+2022-07-22 11:21:37|Connected client ID: 38 session: f26ef34ee5274609
+
+2022-07-22 11:21:47|removeFromAllRooms(): 32
+
+2022-07-22 11:21:47|removeFromAllRooms(): done n
+2022-07-22 11:22:01|removeFromAllRooms(): 38
+
+2022-07-22 11:22:01|removeFromAllRooms(): done n
+2022-07-22 11:22:24|BoostTCPServer::async_accept()
+2022-07-22 11:22:24|Connected client ID: 32 session: a07162e3b83676e3
+
+2022-07-22 11:22:34|BoostTCPServer::async_accept()
+2022-07-22 11:22:34|Connected client ID: 38 session: 931c82071711a657
+
+2022-07-22 11:22:43|removeFromAllRooms(): 38
+
+2022-07-22 11:22:43|removeFromAllRooms(): done n
+2022-07-22 11:22:56|removeFromAllRooms(): 32
+
+2022-07-22 11:22:56|removeFromAllRooms(): done n
+2022-07-22 11:23:35|BoostTCPServer::async_accept()
+2022-07-22 11:23:35|Connected client ID: 32 session: 28dd0f185fc78209
+
+2022-07-22 11:23:35|BoostTCPServer::async_accept()
+2022-07-22 11:23:35|Connected client ID: 38 session: f64af43e34f3c2b9
+
+2022-07-22 11:23:47|removeFromAllRooms(): 38
+
+2022-07-22 11:23:47|removeFromAllRooms(): done n
+2022-07-22 11:23:52|removeFromAllRooms(): 32
+
+2022-07-22 11:23:52|removeFromAllRooms(): done n
+2022-07-22 11:24:11|BoostTCPServer::async_accept()
+2022-07-22 11:24:11|Connected client ID: 32 session: 2a788fe284dc4372
+
+2022-07-22 11:24:13|BoostTCPServer::async_accept()
+2022-07-22 11:24:13|Connected client ID: 38 session: e9069eab0bb09013
+
+2022-07-22 11:24:29|removeFromAllRooms(): 38
+
+2022-07-22 11:24:29|removeFromAllRooms(): done n
+2022-07-22 11:24:51|removeFromAllRooms(): 32
+
+2022-07-22 11:24:51|removeFromAllRooms(): done n
+2022-07-22 11:25:29|BoostTCPServer::async_accept()
+2022-07-22 11:25:29|Connected client ID: 32 session: 07f79a22bea88299
+
+2022-07-22 11:25:36|BoostTCPServer::async_accept()
+2022-07-22 11:25:36|Connected client ID: 38 session: e92cd19e7f82d4c2
+
+2022-07-22 11:25:47|removeFromAllRooms(): 38
+
+2022-07-22 11:25:47|removeFromAllRooms(): done n
+2022-07-22 11:25:51|removeFromAllRooms(): 32
+
+2022-07-22 11:25:51|removeFromAllRooms(): done n
+2022-07-22 11:26:49|BoostTCPServer::async_accept()
+2022-07-22 11:26:49|Connected client ID: 38 session: a30f80cab5b9f3d3
+
+2022-07-22 11:26:54|BoostTCPServer::async_accept()
+2022-07-22 11:26:54|Connected client ID: 32 session: 12803ded588a3409
+
+2022-07-22 11:27:19|removeFromAllRooms(): 38
+
+2022-07-22 11:27:19|removeFromAllRooms(): done n
+2022-07-22 11:27:29|removeFromAllRooms(): 32
+
+2022-07-22 11:27:29|removeFromAllRooms(): done n
+2022-07-22 11:30:38|BoostTCPServer::async_accept()
+2022-07-22 11:30:38|Connected client ID: 27 session: 3c0406f6ab5de223
+
+2022-07-22 11:30:51|BoostTCPServer::async_accept()
+2022-07-22 11:30:51|Connected client ID: 32 session: b9e96a6ec81b8783
+
+2022-07-22 11:32:33|Command received: broadcast
+
+2022-07-22 11:32:49|removeFromAllRooms(): 27
+
+2022-07-22 11:32:49|removeFromAllRooms(): done n
+2022-07-22 11:33:10|removeFromAllRooms(): 32
+
+2022-07-22 11:33:10|removeFromAllRooms(): done n
+2022-07-22 11:33:34|BoostTCPServer::async_accept()
+2022-07-22 11:33:34|Connected client ID: 32 session: 48a3792e2792a04d
+
+2022-07-22 11:33:38|BoostTCPServer::async_accept()
+2022-07-22 11:33:38|Connected client ID: 27 session: 5675d82773f9d993
+
+2022-07-22 11:38:33|removeFromAllRooms(): 27
+
+2022-07-22 11:38:33|removeFromAllRooms(): done n
+2022-07-22 11:38:54|removeFromAllRooms(): 32
+
+2022-07-22 11:38:54|removeFromAllRooms(): done n
+2022-07-22 11:39:28|BoostTCPServer::async_accept()
+2022-07-22 11:39:28|Connected client ID: 32 session: a64884f2b66a6863
+
+2022-07-22 11:39:42|BoostTCPServer::async_accept()
+2022-07-22 11:39:42|Connected client ID: 27 session: fd565abb8e91e488
+
+2022-07-22 11:40:39|removeFromAllRooms(): 32
+
+2022-07-22 11:40:39|removeFromAllRooms(): done n
+2022-07-22 11:40:51|removeFromAllRooms(): 27
+
+2022-07-22 11:40:51|removeFromAllRooms(): done n
+2022-07-25 14:09:00|BoostTCPServer::async_accept()
+2022-07-25 14:09:00|Connected client ID: 38 session: cc2fc9dfeecccfb5
+
+2022-07-25 14:12:55|BoostTCPServer::async_accept()
+2022-07-25 14:12:55|Connected client ID: 38 session: d13665d9bcc7c9e1
+
+2022-07-25 14:17:28|removeFromAllRooms(): 38
+
+2022-07-25 14:17:28|removeFromAllRooms(): done n
+2022-07-25 14:23:19|BoostTCPServer::async_accept()
+2022-07-25 14:23:19|Connected client ID: 38 session: 4700e609a41c2c42
+
+2022-07-25 15:02:21|removeFromAllRooms(): 38
+
+2022-07-25 15:02:21|removeFromAllRooms(): done n
+2022-07-25 15:02:45|BoostTCPServer::async_accept()
+2022-07-25 15:02:46|Connected client ID: 38 session: b2b7b7055cc7458e
+
+2022-07-25 15:04:26|removeFromAllRooms(): 38
+
+2022-07-25 15:04:26|removeFromAllRooms(): done n
+2022-07-25 15:07:10|BoostTCPServer::async_accept()
+2022-07-25 15:07:10|Connected client ID: 38 session: a30cdd901d2668b1
+
+2022-07-25 15:10:59|Command received: broadcast
+
+2022-07-25 15:15:46|removeFromAllRooms(): 38
+
+2022-07-25 15:15:46|removeFromAllRooms(): done n
+2022-07-26 06:19:33|BoostTCPServer::async_accept()
+2022-07-26 06:19:33|Connected client ID: 38 session: 127eb51c4faa8d78
+
+2022-07-26 06:19:37|removeFromAllRooms(): 38
+
+2022-07-26 06:19:37|removeFromAllRooms(): done n
+2022-07-26 06:20:09|BoostTCPServer::async_accept()
+2022-07-26 06:20:09|Connected client ID: 38 session: 5825f5c8ab510fd8
+
+2022-07-26 06:40:02|removeFromAllRooms(): 38
+
+2022-07-26 06:40:02|removeFromAllRooms(): done n
+2022-07-26 06:40:22|BoostTCPServer::async_accept()
+2022-07-26 06:40:22|Connected client ID: 38 session: eee62cc157ecfa0b
+
+2022-07-26 06:41:02|Command received: broadcast
+
+2022-07-26 06:41:08|Command received: broadcast
+
+2022-07-26 06:41:13|Command received: broadcast
+
+2022-07-26 06:47:24|Command received: broadcast
+
+2022-07-26 06:47:29|Command received: broadcast
+
+2022-07-26 06:52:24|BoostTCPServer::async_accept()
+2022-07-26 06:52:26|Connected client ID: 29 session: 3a445e9ea8a90071
+
+2022-07-26 07:01:11|Command received: broadcast
+
+2022-07-26 07:01:16|Command received: broadcast
+
+2022-07-26 07:01:22|Command received: broadcast
+
+2022-07-26 07:20:05|removeFromAllRooms(): 29
+
+2022-07-26 07:20:05|removeFromAllRooms(): done n
+2022-07-26 07:32:24|removeFromAllRooms(): 38
+
+2022-07-26 07:32:24|removeFromAllRooms(): done n
+2022-07-26 08:52:38|BoostTCPServer::async_accept()
+2022-07-26 08:52:38|Connected client ID: 32 session: d6f8d5f47d699df2
+
+2022-07-26 08:56:13|removeFromAllRooms(): 32
+
+2022-07-26 08:56:13|removeFromAllRooms(): done n
+2022-07-27 14:05:03|BoostTCPServer::async_accept()
+2022-07-27 14:05:03|Connected client ID: 27 session: 93afc25ca788920f
+
+2022-07-27 14:05:31|removeFromAllRooms(): 27
+
+2022-07-27 14:05:31|removeFromAllRooms(): done n
+2022-07-28 07:02:11|BoostTCPServer::async_accept()
+2022-07-28 07:02:11|Connected client ID: 38 session: d0ab73e2cfd3140f
+
+2022-07-28 07:29:49|removeFromAllRooms(): 38
+
+2022-07-28 07:29:49|removeFromAllRooms(): done n
+2022-07-28 11:57:06|BoostTCPServer::async_accept()
+2022-07-28 11:57:06|Connected client ID: 38 session: 5736c3ec5bc541f3
+
+2022-07-28 12:00:18|removeFromAllRooms(): 38
+
+2022-07-28 12:00:18|removeFromAllRooms(): done n
+2022-07-28 12:01:14|BoostTCPServer::async_accept()
+2022-07-28 12:01:14|Connected client ID: 38 session: fa8e332338c812fa
+
+2022-07-28 12:07:10|removeFromAllRooms(): 38
+
+2022-07-28 12:07:10|removeFromAllRooms(): done n
+2022-07-28 12:07:50|BoostTCPServer::async_accept()
+2022-07-28 12:07:50|Connected client ID: 38 session: 7f60046ccf91711e
+
+2022-07-28 12:18:25|removeFromAllRooms(): 38
+
+2022-07-28 12:18:25|removeFromAllRooms(): done n
+2022-07-28 12:30:10|BoostTCPServer::async_accept()
+2022-07-28 12:30:10|Connected client ID: 38 session: b39fa91b7c39d497
+
+2022-07-28 12:32:18|removeFromAllRooms(): 38
+
+2022-07-28 12:32:18|removeFromAllRooms(): done n
+2022-07-28 12:34:58|BoostTCPServer::async_accept()
+2022-07-28 12:34:58|Connected client ID: 38 session: 08c393d56650fc9f
+
+2022-07-28 14:13:24|BoostTCPServer::async_accept()
+2022-07-28 14:13:24|Connected client ID: 38 session: e7c253233b31daa3
+
+2022-07-28 14:13:31|removeFromAllRooms(): 38
+
+2022-07-28 14:13:31|removeFromAllRooms(): done n
+2022-07-28 14:14:32|BoostTCPServer::async_accept()
+2022-07-28 14:14:32|Connected client ID: 38 session: f0527e40c0ff1056
+
+2022-07-28 14:34:03|BoostTCPServer::async_accept()
+2022-07-28 14:34:03|Connected client ID: 27 session: d6127ae11610cdb5
+
+2022-07-28 14:39:00|BoostTCPServer::async_accept()
+2022-07-28 14:39:01|Connected client ID: 32 session: 44f552b96c969340
+
+2022-07-28 14:39:05|Command received: broadcast
+
+2022-07-28 14:39:09|Command received: broadcast
+
+2022-07-28 14:39:12|Command received: broadcast
+
+2022-07-28 14:39:15|Command received: broadcast
+
+2022-07-28 14:39:24|Command received: broadcast
+
+2022-07-28 14:39:27|Command received: broadcast
+
+2022-07-28 14:39:37|removeFromAllRooms(): 38
+
+2022-07-28 14:39:37|removeFromAllRooms(): done n
+2022-07-28 14:39:38|Command received: broadcast
+
+2022-07-28 14:39:42|Command received: broadcast
+
+2022-07-28 14:39:59|Command received: broadcast
+
+2022-07-28 14:40:00|Command received: broadcast
+
+2022-07-28 14:40:01|Command received: broadcast
+
+2022-07-28 14:40:01|Command received: broadcast
+
+2022-07-28 14:40:02|Command received: broadcast
+
+2022-07-28 14:40:02|Command received: broadcast
+
+2022-07-28 14:40:03|Command received: broadcast
+
+2022-07-28 14:40:03|Command received: broadcast
+
+2022-07-28 14:40:04|Command received: broadcast
+
+2022-07-28 14:40:04|Command received: broadcast
+
+2022-07-28 14:40:49|Command received: broadcast
+
+2022-07-28 14:40:53|Command received: broadcast
+
+2022-07-28 14:41:36|removeFromAllRooms(): 27
+
+2022-07-28 14:41:36|removeFromAllRooms(): done n
+2022-07-28 14:42:07|removeFromAllRooms(): 32
+
+2022-07-28 14:42:07|removeFromAllRooms(): done n
+2022-07-28 15:01:10|BoostTCPServer::async_accept()
+2022-07-28 15:01:10|Connected client ID: 38 session: 8a20f1918cb2ba41
+
+2022-07-28 15:04:33|Command received: broadcast
+
+2022-07-28 15:04:36|Command received: broadcast
+
+2022-07-28 15:04:41|Command received: broadcast
+
+2022-07-28 15:10:56|removeFromAllRooms(): 38
+
+2022-07-28 15:10:56|removeFromAllRooms(): done n
+2022-07-29 07:42:02|BoostTCPServer::async_accept()
+2022-07-29 07:42:02|Connected client ID: 38 session: 0ae5b10fd0c84841
+
+2022-07-29 07:57:01|removeFromAllRooms(): 38
+
+2022-07-29 07:57:01|removeFromAllRooms(): done n
+2022-07-29 08:12:09|BoostTCPServer::async_accept()
+2022-07-29 08:12:09|Connected client ID: 27 session: b776644f8d054a0a
+
+2022-07-29 08:14:35|removeFromAllRooms(): 27
+
+2022-07-29 08:14:35|removeFromAllRooms(): done n
+2022-07-29 08:49:41|BoostTCPServer::async_accept()
+2022-07-29 08:49:41|Connected client ID: 38 session: 21334c26a20270a3
+
+2022-07-29 09:45:07|removeFromAllRooms(): 38
+
+2022-07-29 09:45:07|removeFromAllRooms(): done n
+2022-07-29 10:19:53|BoostTCPServer::async_accept()
+2022-07-29 10:19:53|Connected client ID: 27 session: ee35fbfa9cb9a733
+
+2022-07-29 10:24:37|removeFromAllRooms(): 27
+
+2022-07-29 10:24:37|removeFromAllRooms(): done n
+2022-07-29 13:38:44|BoostTCPServer::async_accept()
+2022-07-29 13:38:44|Connected client ID: 27 session: 6833495ccfbfcc47
+
+2022-07-29 13:40:30|removeFromAllRooms(): 27
+
+2022-07-29 13:40:30|removeFromAllRooms(): done n
+2022-07-29 15:04:19|BoostTCPServer::async_accept()
+2022-07-29 15:04:19|Connected client ID: 38 session: aa4c06cf7614c893
+
+2022-07-29 15:04:42|removeFromAllRooms(): 38
+
+2022-07-29 15:04:42|removeFromAllRooms(): done n
+2022-07-29 15:05:23|BoostTCPServer::async_accept()
+2022-07-29 15:05:23|Connected client ID: 38 session: bd313ca77e322a4f
+
+2022-07-29 15:07:18|removeFromAllRooms(): 38
+
+2022-07-29 15:07:18|removeFromAllRooms(): done n
+2022-07-29 15:08:38|BoostTCPServer::async_accept()
+2022-07-29 15:08:38|Connected client ID: 38 session: 10a655c5cde929a2
+
+2022-07-29 15:09:13|removeFromAllRooms(): 38
+
+2022-07-29 15:09:13|removeFromAllRooms(): done n
+2022-08-02 06:51:43|BoostTCPServer::async_accept()
+2022-08-02 06:51:43|Connected client ID: 38 session: e09ffed604aee2d5
+
+2022-08-02 07:00:20|BoostTCPServer::async_accept()
+2022-08-02 07:00:20|Connected client ID: 38 session: 0658beca385dbdaf
+
+2022-08-02 07:12:15|removeFromAllRooms(): 38
+
+2022-08-02 07:12:15|removeFromAllRooms(): done n
+2022-08-02 07:19:11|BoostTCPServer::async_accept()
+2022-08-02 07:19:11|Connected client ID: 38 session: af68a5a1d4e11094
+
+2022-08-02 09:02:14|removeFromAllRooms(): 38
+
+2022-08-02 09:02:14|removeFromAllRooms(): done n
+2022-08-02 09:03:06|BoostTCPServer::async_accept()
+2022-08-02 09:03:06|Connected client ID: 38 session: 03f7a3d3290e5e41
+
+2022-08-02 09:04:58|removeFromAllRooms(): 38
+
+2022-08-02 09:04:58|removeFromAllRooms(): done n
+2022-08-02 09:05:37|BoostTCPServer::async_accept()
+2022-08-02 09:05:37|Connected client ID: 38 session: d7879ef933bf0feb
+
+2022-08-02 09:07:50|removeFromAllRooms(): 38
+
+2022-08-02 09:07:50|removeFromAllRooms(): done n
+2022-08-02 09:08:25|BoostTCPServer::async_accept()
+2022-08-02 09:08:25|Connected client ID: 38 session: 231b1019b8466b20
+
+2022-08-02 09:10:10|removeFromAllRooms(): 38
+
+2022-08-02 09:10:10|removeFromAllRooms(): done n
+2022-08-02 09:13:03|BoostTCPServer::async_accept()
+2022-08-02 09:13:03|Connected client ID: 38 session: d86b0cbd528594d5
+
+2022-08-02 09:14:08|removeFromAllRooms(): 38
+
+2022-08-02 09:14:08|removeFromAllRooms(): done n
+2022-08-02 09:16:05|BoostTCPServer::async_accept()
+2022-08-02 09:16:05|Connected client ID: 38 session: 5548e46f2671d9cc
+
+2022-08-02 09:19:40|BoostTCPServer::async_accept()
+2022-08-02 09:19:40|Connected client ID: 38 session: e25484a11eaa2e33
+
+2022-08-02 09:20:38|removeFromAllRooms(): 38
+
+2022-08-02 09:20:38|removeFromAllRooms(): done n
+2022-08-02 09:21:07|BoostTCPServer::async_accept()
+2022-08-02 09:21:07|Connected client ID: 38 session: 74342bc99d57f2ee
+
+2022-08-02 09:21:29|removeFromAllRooms(): 38
+
+2022-08-02 09:21:29|removeFromAllRooms(): done n
+2022-08-02 09:22:20|BoostTCPServer::async_accept()
+2022-08-02 09:22:20|Connected client ID: 38 session: 3c03771b1985385f
+
+2022-08-02 12:45:04|removeFromAllRooms(): 38
+
+2022-08-02 12:45:04|removeFromAllRooms(): done n
+2022-08-02 12:49:47|BoostTCPServer::async_accept()
+2022-08-02 12:49:47|Connected client ID: 38 session: c956c7ff89901d1d
+
+2022-08-02 12:54:06|removeFromAllRooms(): 38
+
+2022-08-02 12:54:06|removeFromAllRooms(): done n
+2022-08-02 13:11:29|BoostTCPServer::async_accept()
+2022-08-02 13:11:29|Connected client ID: 38 session: 6e2d8326304203c7
+
+2022-08-02 13:15:13|removeFromAllRooms(): 38
+
+2022-08-02 13:15:13|removeFromAllRooms(): done n
+2022-08-02 13:16:43|BoostTCPServer::async_accept()
+2022-08-02 13:16:44|Connected client ID: 38 session: abf79a06403c2a8b
+
+2022-08-02 13:17:50|removeFromAllRooms(): 38
+
+2022-08-02 13:17:50|removeFromAllRooms(): done n
+2022-08-02 13:18:29|BoostTCPServer::async_accept()
+2022-08-02 13:18:29|Connected client ID: 38 session: 03883efa6b0be88f
+
+2022-08-02 13:20:13|removeFromAllRooms(): 38
+
+2022-08-02 13:20:13|removeFromAllRooms(): done n
+2022-08-02 13:20:51|BoostTCPServer::async_accept()
+2022-08-02 13:20:51|Connected client ID: 38 session: bad7ee820410b7cf
+
+2022-08-02 13:24:56|removeFromAllRooms(): 38
+
+2022-08-02 13:24:56|removeFromAllRooms(): done n
+2022-08-02 13:26:49|BoostTCPServer::async_accept()
+2022-08-02 13:26:49|Connected client ID: 38 session: 7eddcfeeb5939b18
+
+2022-08-02 13:30:34|removeFromAllRooms(): 38
+
+2022-08-02 13:30:34|removeFromAllRooms(): done n
+2022-08-02 13:31:13|BoostTCPServer::async_accept()
+2022-08-02 13:31:13|Connected client ID: 38 session: 4b2d616b07bae96f
+
+2022-08-02 13:36:07|removeFromAllRooms(): 38
+
+2022-08-02 13:36:07|removeFromAllRooms(): done n
+2022-08-02 13:43:40|BoostTCPServer::async_accept()
+2022-08-02 13:43:40|Connected client ID: 38 session: fb00c4c8dfed4e61
+
+2022-08-02 13:53:22|removeFromAllRooms(): 38
+
+2022-08-02 13:53:22|removeFromAllRooms(): done n
+2022-08-02 13:54:11|BoostTCPServer::async_accept()
+2022-08-02 13:54:11|Connected client ID: 38 session: 48566a426407bfd4
+
+2022-08-02 13:56:22|removeFromAllRooms(): 38
+
+2022-08-02 13:56:22|removeFromAllRooms(): done n
+2022-08-02 14:00:32|BoostTCPServer::async_accept()
+2022-08-02 14:00:32|Connected client ID: 38 session: cd627f28b44389c0
+
+2022-08-02 14:29:11|removeFromAllRooms(): 38
+
+2022-08-02 14:29:11|removeFromAllRooms(): done n
+2022-08-02 14:31:38|BoostTCPServer::async_accept()
+2022-08-02 14:31:38|Connected client ID: 38 session: babcd7dfef5007c0
+
+2022-08-02 14:56:21|removeFromAllRooms(): 38
+
+2022-08-02 14:56:21|removeFromAllRooms(): done n
+2022-08-08 07:20:13|BoostTCPServer::async_accept()
+2022-08-08 07:20:13|Connected client ID: 38 session: 79cab38ec3098109
+
+2022-08-08 07:22:08|removeFromAllRooms(): 38
+
+2022-08-08 07:22:08|removeFromAllRooms(): done n
+2022-08-08 07:23:11|BoostTCPServer::async_accept()
+2022-08-08 07:23:11|Connected client ID: 38 session: ea6118a3b1dadf92
+
+2022-08-08 07:23:53|removeFromAllRooms(): 38
+
+2022-08-08 07:23:53|removeFromAllRooms(): done n
+2022-08-08 07:24:32|BoostTCPServer::async_accept()
+2022-08-08 07:24:32|Connected client ID: 38 session: 15b7ffc47dbf508f
+
+2022-08-08 07:27:09|removeFromAllRooms(): 38
+
+2022-08-08 07:27:09|removeFromAllRooms(): done n
+2022-08-08 07:28:15|BoostTCPServer::async_accept()
+2022-08-08 07:28:15|Connected client ID: 38 session: 61c163a46de14902
+
+2022-08-08 07:30:02|removeFromAllRooms(): 38
+
+2022-08-08 07:30:02|removeFromAllRooms(): done n
+2022-08-08 07:31:03|BoostTCPServer::async_accept()
+2022-08-08 07:31:03|Connected client ID: 38 session: c0c5bc8aa231bcdb
+
+2022-08-08 07:31:21|removeFromAllRooms(): 38
+
+2022-08-08 07:31:21|removeFromAllRooms(): done n
+2022-08-08 07:31:52|BoostTCPServer::async_accept()
+2022-08-08 07:31:52|Connected client ID: 38 session: 358a931aef0ae34d
+
+2022-08-08 07:32:39|removeFromAllRooms(): 38
+
+2022-08-08 07:32:39|removeFromAllRooms(): done n
+2022-08-08 07:33:46|BoostTCPServer::async_accept()
+2022-08-08 07:33:46|Connected client ID: 38 session: a499db45dcf401b7
+
+2022-08-08 07:39:02|removeFromAllRooms(): 38
+
+2022-08-08 07:39:02|removeFromAllRooms(): done n
+2022-08-08 07:53:30|BoostTCPServer::async_accept()
+2022-08-08 07:53:30|Connected client ID: 38 session: 105ad300bcf87986
+
+2022-08-08 08:01:05|removeFromAllRooms(): 38
+
+2022-08-08 08:01:05|removeFromAllRooms(): done n
+2022-08-08 08:01:50|BoostTCPServer::async_accept()
+2022-08-08 08:01:50|Connected client ID: 38 session: 807a0b9ec87023f7
+
+2022-08-08 08:04:13|removeFromAllRooms(): 38
+
+2022-08-08 08:04:13|removeFromAllRooms(): done n
+2022-08-08 08:05:00|BoostTCPServer::async_accept()
+2022-08-08 08:05:00|Connected client ID: 38 session: e42a5c607e8a0f60
+
+2022-08-08 08:06:19|removeFromAllRooms(): 38
+
+2022-08-08 08:06:19|removeFromAllRooms(): done n
+2022-08-08 08:07:12|BoostTCPServer::async_accept()
+2022-08-08 08:07:12|Connected client ID: 38 session: ccc2c53591a71de5
+
+2022-08-08 08:08:00|removeFromAllRooms(): 38
+
+2022-08-08 08:08:00|removeFromAllRooms(): done n
+2022-08-08 08:08:31|BoostTCPServer::async_accept()
+2022-08-08 08:08:31|Connected client ID: 38 session: 1427a2370ae064d6
+
+2022-08-08 08:17:37|removeFromAllRooms(): 38
+
+2022-08-08 08:17:37|removeFromAllRooms(): done n
+2022-08-08 10:08:16|BoostTCPServer::async_accept()
+2022-08-08 10:08:16|Connected client ID: 38 session: e26131f7b0f4cba5
+
+2022-08-08 10:11:00|removeFromAllRooms(): 38
+
+2022-08-08 10:11:00|removeFromAllRooms(): done n
+2022-08-08 10:43:47|BoostTCPServer::async_accept()
+2022-08-08 10:43:47|Connected client ID: 38 session: 1f1aa7ddf9b3fa5e
+
+2022-08-08 10:47:43|removeFromAllRooms(): 38
+
+2022-08-08 10:47:43|removeFromAllRooms(): done n
+2022-08-08 10:48:11|BoostTCPServer::async_accept()
+2022-08-08 10:48:11|Connected client ID: 38 session: dbc80f9fcbde6aaa
+
+2022-08-08 11:26:09|removeFromAllRooms(): 38
+
+2022-08-08 11:26:09|removeFromAllRooms(): done n
+2022-08-08 11:27:48|BoostTCPServer::async_accept()
+2022-08-08 11:27:48|Connected client ID: 38 session: 73b8840d13428f77
+
+2022-08-08 12:00:15|removeFromAllRooms(): 38
+
+2022-08-08 12:00:15|removeFromAllRooms(): done n
+2022-08-08 12:00:55|BoostTCPServer::async_accept()
+2022-08-08 12:00:55|Connected client ID: 38 session: a4735bf81cebace0
+
+2022-08-08 12:17:06|removeFromAllRooms(): 38
+
+2022-08-08 12:17:06|removeFromAllRooms(): done n
+2022-08-08 12:17:52|BoostTCPServer::async_accept()
+2022-08-08 12:17:52|Connected client ID: 38 session: d38d8a302a4c117a
+
+2022-08-08 12:25:36|removeFromAllRooms(): 38
+
+2022-08-08 12:25:36|removeFromAllRooms(): done n
+2022-08-08 12:26:09|BoostTCPServer::async_accept()
+2022-08-08 12:26:09|Connected client ID: 38 session: 80c61782bb9d2069
+
+2022-08-08 12:35:22|removeFromAllRooms(): 38
+
+2022-08-08 12:35:22|removeFromAllRooms(): done n
+2022-08-08 12:37:57|BoostTCPServer::async_accept()
+2022-08-08 12:37:57|Connected client ID: 38 session: 5ed4e470b04908fe
+
+2022-08-08 12:39:11|removeFromAllRooms(): 38
+
+2022-08-08 12:39:11|removeFromAllRooms(): done n
+2022-08-08 12:40:14|BoostTCPServer::async_accept()
+2022-08-08 12:40:14|Connected client ID: 38 session: 42e95718c3927469
+
+2022-08-08 12:50:45|removeFromAllRooms(): 38
+
+2022-08-08 12:50:45|removeFromAllRooms(): done n
+2022-08-08 12:51:57|BoostTCPServer::async_accept()
+2022-08-08 12:51:57|Connected client ID: 38 session: 441dfd196f75e7ac
+
+2022-08-08 12:59:41|removeFromAllRooms(): 38
+
+2022-08-08 12:59:41|removeFromAllRooms(): done n
+2022-08-08 13:01:09|BoostTCPServer::async_accept()
+2022-08-08 13:01:09|Connected client ID: 38 session: ef2f05d21332f1c8
+
+2022-08-08 13:02:33|removeFromAllRooms(): 38
+
+2022-08-08 13:02:33|removeFromAllRooms(): done n
+2022-08-08 13:07:19|BoostTCPServer::async_accept()
+2022-08-08 13:07:19|Connected client ID: 38 session: b7a1728f0267c05a
+
+2022-08-08 13:10:24|removeFromAllRooms(): 38
+
+2022-08-08 13:10:24|removeFromAllRooms(): done n
+2022-08-08 13:10:54|BoostTCPServer::async_accept()
+2022-08-08 13:10:54|Connected client ID: 38 session: 7615d2188823e7de
+
+2022-08-08 13:11:49|removeFromAllRooms(): 38
+
+2022-08-08 13:11:49|removeFromAllRooms(): done n
+2022-08-08 13:12:37|BoostTCPServer::async_accept()
+2022-08-08 13:12:37|Connected client ID: 38 session: 6a5852c0a148e2e8
+
+2022-08-08 13:14:12|removeFromAllRooms(): 38
+
+2022-08-08 13:14:12|removeFromAllRooms(): done n
+2022-08-08 13:14:48|BoostTCPServer::async_accept()
+2022-08-08 13:14:48|Connected client ID: 38 session: 0c48882d6c98c89c
+
+2022-08-08 13:15:54|removeFromAllRooms(): 38
+
+2022-08-08 13:15:54|removeFromAllRooms(): done n
+2022-08-08 13:16:33|BoostTCPServer::async_accept()
+2022-08-08 13:16:33|Connected client ID: 38 session: 3f58b0181674f498
+
+2022-08-08 13:22:23|removeFromAllRooms(): 38
+
+2022-08-08 13:22:23|removeFromAllRooms(): done n
+2022-08-08 13:23:29|BoostTCPServer::async_accept()
+2022-08-08 13:23:29|Connected client ID: 38 session: b6cdc0dd358169a2
+
+2022-08-08 13:26:19|removeFromAllRooms(): 38
+
+2022-08-08 13:26:19|removeFromAllRooms(): done n
+2022-08-08 13:37:15|BoostTCPServer::async_accept()
+2022-08-08 13:37:15|Connected client ID: 38 session: bd50990132eb597f
+
+2022-08-08 13:38:50|removeFromAllRooms(): 38
+
+2022-08-08 13:38:50|removeFromAllRooms(): done n
+2022-08-08 13:40:06|BoostTCPServer::async_accept()
+2022-08-08 13:40:06|Connected client ID: 38 session: 2114cd191c5f6de3
+
+2022-08-08 13:53:37|removeFromAllRooms(): 38
+
+2022-08-08 13:53:37|removeFromAllRooms(): done n
+2022-08-08 14:59:28|BoostTCPServer::async_accept()
+2022-08-08 14:59:28|Connected client ID: 38 session: 52cc504e4b78fcf6
+
+2022-08-08 15:00:13|removeFromAllRooms(): 38
+
+2022-08-08 15:00:13|removeFromAllRooms(): done n
+2022-08-09 06:26:11|BoostTCPServer::async_accept()
+2022-08-09 06:26:11|Connected client ID: 38 session: 0da4c887deab3328
+
+2022-08-09 06:29:00|removeFromAllRooms(): 38
+
+2022-08-09 06:29:00|removeFromAllRooms(): done n
+2022-08-09 06:40:31|BoostTCPServer::async_accept()
+2022-08-09 06:40:31|Connected client ID: 38 session: 4aba2b648642034a
+
+2022-08-09 06:41:54|removeFromAllRooms(): 38
+
+2022-08-09 06:41:54|removeFromAllRooms(): done n
+2022-08-09 06:42:25|BoostTCPServer::async_accept()
+2022-08-09 06:42:25|Connected client ID: 38 session: e0e79591b7e7e1b6
+
+2022-08-09 07:19:19|removeFromAllRooms(): 38
+
+2022-08-09 07:19:19|removeFromAllRooms(): done n
+2022-08-09 07:19:54|BoostTCPServer::async_accept()
+2022-08-09 07:19:54|Connected client ID: 38 session: 590367d9f588e795
+
+2022-08-09 07:40:18|removeFromAllRooms(): 38
+
+2022-08-09 07:40:18|removeFromAllRooms(): done n
+2022-08-09 08:34:47|BoostTCPServer::async_accept()
+2022-08-09 08:34:47|Connected client ID: 38 session: 6dc19ea113818aeb
+
+2022-08-09 09:28:26|removeFromAllRooms(): 38
+
+2022-08-09 09:28:26|removeFromAllRooms(): done n
+2022-08-09 09:34:37|BoostTCPServer::async_accept()
+2022-08-09 09:34:37|Connected client ID: 38 session: 4e1bc8dd6941fd84
+
+2022-08-09 09:34:57|removeFromAllRooms(): 38
+
+2022-08-09 09:34:57|removeFromAllRooms(): done n
+2022-08-09 09:35:51|BoostTCPServer::async_accept()
+2022-08-09 09:35:51|Connected client ID: 38 session: cd5962bec7f9e26c
+
+2022-08-09 09:37:12|removeFromAllRooms(): 38
+
+2022-08-09 09:37:12|removeFromAllRooms(): done n
+2022-08-09 09:37:48|BoostTCPServer::async_accept()
+2022-08-09 09:37:48|Connected client ID: 38 session: ff007349e520ca55
+
+2022-08-09 11:01:13|removeFromAllRooms(): 38
+
+2022-08-09 11:01:13|removeFromAllRooms(): done n
+2022-08-09 11:11:10|BoostTCPServer::async_accept()
+2022-08-09 11:11:10|Connected client ID: 38 session: 9475565d8ddf1eec
+
+2022-08-09 11:29:51|removeFromAllRooms(): 38
+
+2022-08-09 11:29:51|removeFromAllRooms(): done n
+2022-08-09 12:16:59|BoostTCPServer::async_accept()
+2022-08-09 12:16:59|Connected client ID: 38 session: 7ae1a7d9f7e80c20
+
+2022-08-09 12:17:59|BoostTCPServer::async_accept()
+2022-08-09 12:17:59|Connected client ID: 38 session: 830ba8d8ea498454
+
+2022-08-09 12:18:05|removeFromAllRooms(): 38
+
+2022-08-09 12:18:05|removeFromAllRooms(): done n
+2022-08-09 12:26:43|BoostTCPServer::async_accept()
+2022-08-09 12:26:43|Connected client ID: 38 session: 0bc534f845bf6f5a
+
+2022-08-09 12:32:11|BoostTCPServer::async_accept()
+2022-08-09 12:32:11|Connected client ID: 15 session: 06793a2d8ca808aa
+
+2022-08-09 12:37:23|removeFromAllRooms(): 15
+
+2022-08-09 12:37:23|removeFromAllRooms(): done n
+2022-08-09 12:37:37|removeFromAllRooms(): 38
+
+2022-08-09 12:37:37|removeFromAllRooms(): done n
+2022-08-10 06:15:34|BoostTCPServer::async_accept()
+2022-08-10 06:15:34|Connected client ID: 38 session: 44b6ffe71cf39309
+
+2022-08-10 06:18:33|BoostTCPServer::async_accept()
+2022-08-10 06:18:33|Connected client ID: 38 session: 3b0b1fc32dee18d7
+
+2022-08-10 06:19:27|removeFromAllRooms(): 38
+
+2022-08-10 06:19:27|removeFromAllRooms(): done n
+2022-08-10 07:51:55|BoostTCPServer::async_accept()
+2022-08-10 07:51:55|Connected client ID: 38 session: 8e2893431953a307
+
+2022-08-10 07:52:42|removeFromAllRooms(): 38
+
+2022-08-10 07:52:42|removeFromAllRooms(): done n
+2022-08-10 12:26:26|BoostTCPServer::async_accept()
+2022-08-10 12:26:26|Connected client ID: 15 session: e8cdd11da336024f
+
+2022-08-10 12:26:57|removeFromAllRooms(): 15
+
+2022-08-10 12:26:57|removeFromAllRooms(): done n
+2022-08-10 12:27:25|BoostTCPServer::async_accept()
+2022-08-10 12:27:25|Connected client ID: 15 session: 030ca5bae09ca5f0
+
+2022-08-10 12:27:48|removeFromAllRooms(): 15
+
+2022-08-10 12:27:48|removeFromAllRooms(): done n
+2022-08-10 12:28:07|BoostTCPServer::async_accept()
+2022-08-10 12:28:07|Connected client ID: 15 session: 1f131b6404febb31
+
+2022-08-10 12:30:13|removeFromAllRooms(): 15
+
+2022-08-10 12:30:13|removeFromAllRooms(): done n
+2022-08-10 12:39:26|BoostTCPServer::async_accept()
+2022-08-10 12:39:26|Connected client ID: 15 session: a231ea86a59670a2
+
+2022-08-10 12:39:38|removeFromAllRooms(): 15
+
+2022-08-10 12:39:38|removeFromAllRooms(): done n
+2022-08-10 12:39:49|BoostTCPServer::async_accept()
+2022-08-10 12:39:49|Connected client ID: 15 session: dfe6d5138a468c9e
+
+2022-08-10 12:40:23|removeFromAllRooms(): 15
+
+2022-08-10 12:40:23|removeFromAllRooms(): done n
+2022-08-10 12:40:46|BoostTCPServer::async_accept()
+2022-08-10 12:40:46|Connected client ID: 15 session: b2b9759a275f907d
+
+2022-08-10 12:41:46|removeFromAllRooms(): 15
+
+2022-08-10 12:41:46|removeFromAllRooms(): done n
+2022-08-10 12:42:11|BoostTCPServer::async_accept()
+2022-08-10 12:42:11|Connected client ID: 15 session: 1026e58388539ffd
+
+2022-08-10 12:42:18|removeFromAllRooms(): 15
+
+2022-08-10 12:42:18|removeFromAllRooms(): done n
+2022-08-10 12:49:13|BoostTCPServer::async_accept()
+2022-08-10 12:49:13|Connected client ID: 15 session: a1224f023f32f281
+
+2022-08-10 12:51:05|removeFromAllRooms(): 15
+
+2022-08-10 12:51:05|removeFromAllRooms(): done n
+2022-08-10 13:04:42|BoostTCPServer::async_accept()
+2022-08-10 13:04:42|Connected client ID: 15 session: 36bcc3f26d612145
+
+2022-08-10 13:05:02|removeFromAllRooms(): 15
+
+2022-08-10 13:05:02|removeFromAllRooms(): done n
+2022-08-10 13:10:33|BoostTCPServer::async_accept()
+2022-08-10 13:10:33|Connected client ID: 15 session: c0f74325f25f1252
+
+2022-08-10 13:11:17|removeFromAllRooms(): 15
+
+2022-08-10 13:11:17|removeFromAllRooms(): done n
+2022-08-10 13:15:38|BoostTCPServer::async_accept()
+2022-08-10 13:15:38|Connected client ID: 15 session: 2fb0a454888b0f5d
+
+2022-08-10 13:16:37|removeFromAllRooms(): 15
+
+2022-08-10 13:16:37|removeFromAllRooms(): done n
+2022-08-10 13:18:29|BoostTCPServer::async_accept()
+2022-08-10 13:18:29|Connected client ID: 15 session: 4be03c1ca3875b91
+
+2022-08-10 13:18:47|removeFromAllRooms(): 15
+
+2022-08-10 13:18:47|removeFromAllRooms(): done n
+2022-08-10 13:19:41|BoostTCPServer::async_accept()
+2022-08-10 13:19:41|Connected client ID: 15 session: 60d16c419751b2c4
+
+2022-08-10 13:20:28|removeFromAllRooms(): 15
+
+2022-08-10 13:20:28|removeFromAllRooms(): done n
+2022-08-10 13:21:20|BoostTCPServer::async_accept()
+2022-08-10 13:21:20|Connected client ID: 15 session: 0fce4721d44cb166
+
+2022-08-10 13:22:57|removeFromAllRooms(): 15
+
+2022-08-10 13:22:57|removeFromAllRooms(): done n
+2022-08-10 13:24:57|BoostTCPServer::async_accept()
+2022-08-10 13:24:57|Connected client ID: 15 session: 1ded1275bd0a661c
+
+2022-08-10 13:25:42|removeFromAllRooms(): 15
+
+2022-08-10 13:25:42|removeFromAllRooms(): done n
+2022-08-10 13:29:09|BoostTCPServer::async_accept()
+2022-08-10 13:29:09|Connected client ID: 15 session: 08eb9969d5a381ba
+
+2022-08-10 13:29:43|removeFromAllRooms(): 15
+
+2022-08-10 13:29:43|removeFromAllRooms(): done n
+2022-08-10 13:34:25|BoostTCPServer::async_accept()
+2022-08-10 13:34:25|Connected client ID: 15 session: e8e82ac496a0a053
+
+2022-08-10 13:37:12|removeFromAllRooms(): 15
+
+2022-08-10 13:37:12|removeFromAllRooms(): done n
+2022-08-10 13:38:43|BoostTCPServer::async_accept()
+2022-08-10 13:38:43|Connected client ID: 15 session: ac22d1e2e21d670f
+
+2022-08-10 13:38:57|removeFromAllRooms(): 15
+
+2022-08-10 13:38:57|removeFromAllRooms(): done n
+2022-08-10 13:44:57|BoostTCPServer::async_accept()
+2022-08-10 13:44:57|Connected client ID: 15 session: 27fef31c5d213d77
+
+2022-08-10 13:45:11|removeFromAllRooms(): 15
+
+2022-08-10 13:45:11|removeFromAllRooms(): done n
+2022-08-10 13:45:43|BoostTCPServer::async_accept()
+2022-08-10 13:45:43|Connected client ID: 15 session: 92b7ca9daf039a71
+
+2022-08-10 13:47:08|removeFromAllRooms(): 15
+
+2022-08-10 13:47:08|removeFromAllRooms(): done n
+2022-08-10 13:47:52|BoostTCPServer::async_accept()
+2022-08-10 13:47:52|Connected client ID: 15 session: cf705eda71ab7ac3
+
+2022-08-10 13:48:00|removeFromAllRooms(): 15
+
+2022-08-10 13:48:00|removeFromAllRooms(): done n
+2022-08-10 13:48:52|BoostTCPServer::async_accept()
+2022-08-10 13:48:52|Connected client ID: 15 session: c3342f413b5ba5c1
+
+2022-08-10 13:48:58|removeFromAllRooms(): 15
+
+2022-08-10 13:48:58|removeFromAllRooms(): done n
+2022-08-10 13:52:36|BoostTCPServer::async_accept()
+2022-08-10 13:52:36|Connected client ID: 15 session: ea749a996cd656f9
+
+2022-08-10 13:52:49|removeFromAllRooms(): 15
+
+2022-08-10 13:52:49|removeFromAllRooms(): done n
+2022-08-10 13:59:47|BoostTCPServer::async_accept()
+2022-08-10 13:59:47|Connected client ID: 15 session: 7f88616a14b816dc
+
+2022-08-10 13:59:52|removeFromAllRooms(): 15
+
+2022-08-10 13:59:52|removeFromAllRooms(): done n
+2022-08-10 14:00:35|BoostTCPServer::async_accept()
+2022-08-10 14:00:35|Connected client ID: 15 session: 7a150485ae6af7a0
+
+2022-08-10 14:03:42|BoostTCPServer::async_accept()
+2022-08-10 14:03:42|Connected client ID: 38 session: 42b791e4d4c67cf9
+
+2022-08-10 14:05:53|removeFromAllRooms(): 38
+
+2022-08-10 14:05:53|removeFromAllRooms(): done n
+2022-08-10 14:07:20|BoostTCPServer::async_accept()
+2022-08-10 14:07:20|Connected client ID: 15 session: 1af64526d00995ea
+
+2022-08-10 14:08:12|removeFromAllRooms(): 15
+
+2022-08-10 14:08:12|removeFromAllRooms(): done n
+2022-08-10 14:23:32|BoostTCPServer::async_accept()
+2022-08-10 14:23:33|Connected client ID: 15 session: cea0daf79f151e14
+
+2022-08-10 14:23:40|removeFromAllRooms(): 15
+
+2022-08-10 14:23:40|removeFromAllRooms(): done n
+2022-08-10 14:27:57|BoostTCPServer::async_accept()
+2022-08-10 14:27:57|Connected client ID: 15 session: 810581768fbc0824
+
+2022-08-10 14:28:19|removeFromAllRooms(): 15
+
+2022-08-10 14:28:19|removeFromAllRooms(): done n
+2022-08-10 14:29:06|BoostTCPServer::async_accept()
+2022-08-10 14:29:06|Connected client ID: 15 session: faa5e97fa721116c
+
+2022-08-10 14:29:22|removeFromAllRooms(): 15
+
+2022-08-10 14:29:22|removeFromAllRooms(): done n
+2022-08-10 14:29:40|BoostTCPServer::async_accept()
+2022-08-10 14:29:40|Connected client ID: 15 session: 06fbd04161ae9357
+
+2022-08-10 14:34:14|BoostTCPServer::async_accept()
+2022-08-10 14:34:14|Connected client ID: 15 session: b83955a9e75e5653
+
+2022-08-10 14:35:57|removeFromAllRooms(): 15
+
+2022-08-10 14:35:57|removeFromAllRooms(): done n
+2022-08-10 14:58:59|BoostTCPServer::async_accept()
+2022-08-10 14:58:59|Connected client ID: 15 session: 50acf48030fe7431
+
+2022-08-10 15:01:45|BoostTCPServer::async_accept()
+2022-08-10 15:01:45|Connected client ID: 38 session: 8031f87c5dd50dd2
+
+2022-08-10 15:02:29|removeFromAllRooms(): 15
+
+2022-08-10 15:02:29|removeFromAllRooms(): done n
+2022-08-10 15:03:50|removeFromAllRooms(): 38
+
+2022-08-10 15:03:50|removeFromAllRooms(): done n
+2022-08-11 06:19:59|BoostTCPServer::async_accept()
+2022-08-11 06:19:59|Connected client ID: 38 session: 86d2c20a3b27c82c
+
+2022-08-11 06:20:45|removeFromAllRooms(): 38
+
+2022-08-11 06:20:45|removeFromAllRooms(): done n
+2022-08-11 07:04:13|BoostTCPServer::async_accept()
+2022-08-11 07:04:13|Connected client ID: 38 session: 4e611d3bcc74cd25
+
+2022-08-11 07:06:16|BoostTCPServer::async_accept()
+2022-08-11 07:06:16|Connected client ID: 15 session: 3ec6048956b1fa43
+
+2022-08-11 07:08:15|removeFromAllRooms(): 15
+
+2022-08-11 07:08:15|removeFromAllRooms(): done n
+2022-08-11 07:13:27|removeFromAllRooms(): 38
+
+2022-08-11 07:13:27|removeFromAllRooms(): done n
+2022-08-11 07:38:15|BoostTCPServer::async_accept()
+2022-08-11 07:38:15|Connected client ID: 15 session: a96dbf9779efabc7
+
+2022-08-11 07:38:43|BoostTCPServer::async_accept()
+2022-08-11 07:38:43|Connected client ID: 38 session: 43feb5713a4aa337
+
+2022-08-11 07:39:12|removeFromAllRooms(): 38
+
+2022-08-11 07:39:12|removeFromAllRooms(): done n
+2022-08-11 07:39:53|removeFromAllRooms(): 15
+
+2022-08-11 07:39:53|removeFromAllRooms(): done n
+2022-08-11 07:48:30|BoostTCPServer::async_accept()
+2022-08-11 07:48:30|Connected client ID: 38 session: b30d2fa49f9938d9
+
+2022-08-11 07:49:47|BoostTCPServer::async_accept()
+2022-08-11 07:49:47|Connected client ID: 15 session: cf1013dc52a8390c
+
+2022-08-11 07:49:56|removeFromAllRooms(): 15
+
+2022-08-11 07:49:56|removeFromAllRooms(): done n
+2022-08-11 07:56:33|removeFromAllRooms(): 38
+
+2022-08-11 07:56:33|removeFromAllRooms(): done n
+2022-08-11 08:27:10|BoostTCPServer::async_accept()
+2022-08-11 08:27:10|Connected client ID: 15 session: c3cddc6fa99fdb5b
+
+2022-08-11 08:27:51|BoostTCPServer::async_accept()
+2022-08-11 08:27:51|Connected client ID: 38 session: dccb810668b71762
+
+2022-08-11 08:30:11|removeFromAllRooms(): 15
+
+2022-08-11 08:30:11|removeFromAllRooms(): done n
+2022-08-11 08:30:18|removeFromAllRooms(): 38
+
+2022-08-11 08:30:18|removeFromAllRooms(): done n
+2022-08-11 08:30:33|BoostTCPServer::async_accept()
+2022-08-11 08:30:33|Connected client ID: 38 session: e6f77ebb25c2bd4c
+
+2022-08-11 08:31:03|BoostTCPServer::async_accept()
+2022-08-11 08:31:03|Connected client ID: 15 session: 521796ed5e159e28
+
+2022-08-11 08:31:58|removeFromAllRooms(): 15
+
+2022-08-11 08:31:58|removeFromAllRooms(): done n
+2022-08-11 08:32:20|BoostTCPServer::async_accept()
+2022-08-11 08:32:20|Connected client ID: 15 session: 40dae4a0a5f0be0a
+
+2022-08-11 08:33:19|BoostTCPServer::async_accept()
+2022-08-11 08:33:19|Connected client ID: 9 session: 3d388612854f09cf
+
+2022-08-11 08:40:37|removeFromAllRooms(): 38
+
+2022-08-11 08:40:37|removeFromAllRooms(): done n
+2022-08-11 08:41:53|removeFromAllRooms(): 9
+
+2022-08-11 08:41:53|removeFromAllRooms(): done n
+2022-08-11 08:44:36|removeFromAllRooms(): 15
+
+2022-08-11 08:44:36|removeFromAllRooms(): done n
+2022-08-11 08:44:51|BoostTCPServer::async_accept()
+2022-08-11 08:44:51|Connected client ID: 9 session: 9c5f43c6a6541b5f
+
+2022-08-11 08:45:14|BoostTCPServer::async_accept()
+2022-08-11 08:45:14|Connected client ID: 15 session: 5e3baf937b66b46a
+
+2022-08-11 08:45:58|removeFromAllRooms(): 9
+
+2022-08-11 08:45:58|removeFromAllRooms(): done n
+2022-08-11 08:46:01|removeFromAllRooms(): 15
+
+2022-08-11 08:46:01|removeFromAllRooms(): done n
+2022-08-11 09:36:07|BoostTCPServer::async_accept()
+2022-08-11 09:36:07|Connected client ID: 15 session: fe19d63d9f9c7b90
+
+2022-08-11 09:36:22|BoostTCPServer::async_accept()
+2022-08-11 09:36:22|Connected client ID: 38 session: e9d74db6ba68fbc8
+
+2022-08-11 09:38:14|removeFromAllRooms(): 15
+
+2022-08-11 09:38:14|removeFromAllRooms(): done n
+2022-08-11 09:38:17|removeFromAllRooms(): 38
+
+2022-08-11 09:38:17|removeFromAllRooms(): done n
+2022-08-11 09:44:17|BoostTCPServer::async_accept()
+2022-08-11 09:44:17|Connected client ID: 38 session: c20091891eed54af
+
+2022-08-11 09:45:10|BoostTCPServer::async_accept()
+2022-08-11 09:45:10|Connected client ID: 15 session: d6ab4cdd35dfa5ae
+
+2022-08-11 09:48:09|removeFromAllRooms(): 38
+
+2022-08-11 09:48:09|removeFromAllRooms(): done n
+2022-08-11 09:54:29|removeFromAllRooms(): 15
+
+2022-08-11 09:54:29|removeFromAllRooms(): done n
+2022-08-11 10:30:07|BoostTCPServer::async_accept()
+2022-08-11 10:30:07|Connected client ID: 15 session: b38ade65d0a4c267
+
+2022-08-11 10:30:13|removeFromAllRooms(): 15
+
+2022-08-11 10:30:13|removeFromAllRooms(): done n
+2022-08-11 11:10:18|BoostTCPServer::async_accept()
+2022-08-11 11:10:18|Connected client ID: 15 session: 92f0dd1fe13225b2
+
+2022-08-11 11:10:22|removeFromAllRooms(): 15
+
+2022-08-11 11:10:22|removeFromAllRooms(): done n
+2022-08-11 11:10:41|BoostTCPServer::async_accept()
+2022-08-11 11:10:41|Connected client ID: 15 session: 17bc143969b3e35b
+
+2022-08-11 11:11:50|BoostTCPServer::async_accept()
+2022-08-11 11:11:50|Connected client ID: 38 session: 71a511b38958d639
+
+2022-08-11 11:12:39|removeFromAllRooms(): 38
+
+2022-08-11 11:12:39|removeFromAllRooms(): done n
+2022-08-11 11:12:54|removeFromAllRooms(): 15
+
+2022-08-11 11:12:54|removeFromAllRooms(): done n
+2022-08-11 13:24:53|BoostTCPServer::async_accept()
+2022-08-11 13:24:53|Connected client ID: 38 session: 93facf594e33b4a1
+
+2022-08-11 13:29:30|BoostTCPServer::async_accept()
+2022-08-11 13:29:30|Connected client ID: 15 session: 2db690f397a9bdb9
+
+2022-08-11 13:29:51|removeFromAllRooms(): 38
+
+2022-08-11 13:29:51|removeFromAllRooms(): done n
+2022-08-11 13:30:19|BoostTCPServer::async_accept()
+2022-08-11 13:30:19|Connected client ID: 38 session: 4efafee6c451147c
+
+2022-08-11 13:30:37|removeFromAllRooms(): 38
+
+2022-08-11 13:30:37|removeFromAllRooms(): done n
+2022-08-11 13:31:03|BoostTCPServer::async_accept()
+2022-08-11 13:31:03|Connected client ID: 38 session: b88b79fe5c1c9614
+
+2022-08-11 13:31:25|removeFromAllRooms(): 38
+
+2022-08-11 13:31:25|removeFromAllRooms(): done n
+2022-08-11 13:31:49|BoostTCPServer::async_accept()
+2022-08-11 13:31:49|Connected client ID: 38 session: 1cd9c15165cae3f4
+
+2022-08-11 13:32:12|removeFromAllRooms(): 38
+
+2022-08-11 13:32:12|removeFromAllRooms(): done n
+2022-08-11 13:32:32|removeFromAllRooms(): 15
+
+2022-08-11 13:32:32|removeFromAllRooms(): done n
+2022-08-11 13:40:27|BoostTCPServer::async_accept()
+2022-08-11 13:40:27|Connected client ID: 38 session: 5f2326162db196e6
+
+2022-08-11 13:41:15|BoostTCPServer::async_accept()
+2022-08-11 13:41:15|Connected client ID: 15 session: e9133e3c052ec538
+
+2022-08-11 13:46:38|removeFromAllRooms(): 15
+
+2022-08-11 13:46:38|removeFromAllRooms(): done n
+2022-08-11 13:46:42|removeFromAllRooms(): 38
+
+2022-08-11 13:46:42|removeFromAllRooms(): done n
+2022-08-11 13:46:54|BoostTCPServer::async_accept()
+2022-08-11 13:46:54|Connected client ID: 15 session: fb3a8569c526da6f
+
+2022-08-11 13:48:17|BoostTCPServer::async_accept()
+2022-08-11 13:48:17|Connected client ID: 38 session: 89f7aa4aeba1a7d0
+
+2022-08-11 13:50:14|removeFromAllRooms(): 38
+
+2022-08-11 13:50:14|removeFromAllRooms(): done n
+2022-08-11 13:50:18|removeFromAllRooms(): 15
+
+2022-08-11 13:50:18|removeFromAllRooms(): done n
+2022-08-11 14:02:09|BoostTCPServer::async_accept()
+2022-08-11 14:02:09|Connected client ID: 38 session: 095a24a25a8335b0
+
+2022-08-11 14:02:41|removeFromAllRooms(): 38
+
+2022-08-11 14:02:41|removeFromAllRooms(): done n
+2022-08-12 06:40:39|BoostTCPServer::async_accept()
+2022-08-12 06:40:39|Connected client ID: 38 session: 9fe6d224de647de8
+
+2022-08-12 06:41:09|removeFromAllRooms(): 38
+
+2022-08-12 06:41:09|removeFromAllRooms(): done n
+2022-08-12 06:41:40|BoostTCPServer::async_accept()
+2022-08-12 06:41:40|Connected client ID: 38 session: 08fb630dad357e0f
+
+2022-08-12 07:16:17|removeFromAllRooms(): 38
+
+2022-08-12 07:16:17|removeFromAllRooms(): done n
+2022-08-12 07:16:51|BoostTCPServer::async_accept()
+2022-08-12 07:16:51|Connected client ID: 38 session: 7c638ed5081aad14
+
+2022-08-12 07:50:32|removeFromAllRooms(): 38
+
+2022-08-12 07:50:32|removeFromAllRooms(): done n
+2022-08-12 12:37:52|BoostTCPServer::async_accept()
+2022-08-12 12:37:52|Connected client ID: 38 session: 2af7271e924450a3
+
+2022-08-12 12:39:25|removeFromAllRooms(): 38
+
+2022-08-12 12:39:25|removeFromAllRooms(): done n
+2022-08-12 12:40:10|BoostTCPServer::async_accept()
+2022-08-12 12:40:10|Connected client ID: 38 session: 83ad525095c7625a
+
+2022-08-12 12:41:17|removeFromAllRooms(): 38
+
+2022-08-12 12:41:17|removeFromAllRooms(): done n
+2022-08-12 12:42:31|BoostTCPServer::async_accept()
+2022-08-12 12:42:31|Connected client ID: 38 session: e96c23a1c9120882
+
+2022-08-12 12:44:08|removeFromAllRooms(): 38
+
+2022-08-12 12:44:08|removeFromAllRooms(): done n
+2022-08-12 12:48:57|BoostTCPServer::async_accept()
+2022-08-12 12:48:57|Connected client ID: 38 session: 699f0f65c24bc16b
+
+2022-08-12 13:07:38|removeFromAllRooms(): 38
+
+2022-08-12 13:07:38|removeFromAllRooms(): done n
+2022-08-12 13:22:00|BoostTCPServer::async_accept()
+2022-08-12 13:22:00|Connected client ID: 38 session: 3f73fd5e8bb080aa
+
+2022-08-12 13:53:44|removeFromAllRooms(): 38
+
+2022-08-12 13:53:44|removeFromAllRooms(): done n
+2022-08-15 06:47:27|BoostTCPServer::async_accept()
+2022-08-15 06:47:27|Connected client ID: 22 session: 7afcca93f733e2af
+
+2022-08-15 06:53:23|removeFromAllRooms(): 22
+
+2022-08-15 06:53:23|removeFromAllRooms(): done n
+2022-08-15 06:55:46|BoostTCPServer::async_accept()
+2022-08-15 06:55:46|Connected client ID: 22 session: cf5b7f01c00e92c8
+
+2022-08-15 07:08:34|removeFromAllRooms(): 22
+
+2022-08-15 07:08:34|removeFromAllRooms(): done n
+2022-08-15 08:27:55|BoostTCPServer::async_accept()
+2022-08-15 08:27:55|Connected client ID: 22 session: ab9fc1341c2c3963
+
+2022-08-15 09:00:33|removeFromAllRooms(): 22
+
+2022-08-15 09:00:33|removeFromAllRooms(): done n
+2022-08-17 13:13:56|BoostTCPServer::async_accept()
+2022-08-17 13:13:56|Connected client ID: 38 session: c36045d8770fbae3
+
+2022-08-17 13:19:55|BoostTCPServer::async_accept()
+2022-08-17 13:19:55|Connected client ID: 38 session: 2ed23917f56a484d
+
+2022-08-17 13:20:16|removeFromAllRooms(): 38
+
+2022-08-17 13:20:16|removeFromAllRooms(): done n
+2022-08-17 13:20:47|BoostTCPServer::async_accept()
+2022-08-17 13:20:47|Connected client ID: 38 session: 01b6fd0e2a12243f
+
+2022-08-17 13:21:48|removeFromAllRooms(): 38
+
+2022-08-17 13:21:48|removeFromAllRooms(): done n
+2022-08-17 13:31:35|BoostTCPServer::async_accept()
+2022-08-17 13:31:35|Connected client ID: 32 session: d3bf11d106e45fdc
+
+2022-08-17 13:31:44|removeFromAllRooms(): 32
+
+2022-08-17 13:31:44|removeFromAllRooms(): done n
+2022-08-17 13:32:17|BoostTCPServer::async_accept()
+2022-08-17 13:32:17|Connected client ID: 32 session: fc00a204d3d8feae
+
+2022-08-17 13:32:31|removeFromAllRooms(): 32
+
+2022-08-17 13:32:31|removeFromAllRooms(): done n
+2022-08-17 13:33:02|BoostTCPServer::async_accept()
+2022-08-17 13:33:02|Connected client ID: 32 session: 10b7f38cc2225007
+
+2022-08-17 13:33:56|removeFromAllRooms(): 32
+
+2022-08-17 13:33:56|removeFromAllRooms(): done n
+2022-08-17 13:39:40|BoostTCPServer::async_accept()
+2022-08-17 13:39:40|Connected client ID: 32 session: 0a3661131a17f089
+
+2022-08-17 13:39:52|removeFromAllRooms(): 32
+
+2022-08-17 13:39:52|removeFromAllRooms(): done n
+2022-08-17 13:39:52|BoostTCPServer::async_accept()
+2022-08-17 13:39:52|Connected client ID: 27 session: 47ada2f39093dd0a
+
+2022-08-17 13:40:10|removeFromAllRooms(): 27
+
+2022-08-17 13:40:10|removeFromAllRooms(): done n
+2022-08-17 13:40:20|BoostTCPServer::async_accept()
+2022-08-17 13:40:20|Connected client ID: 32 session: d4934e7e5166b786
+
+2022-08-17 13:40:25|BoostTCPServer::async_accept()
+2022-08-17 13:40:25|Connected client ID: 27 session: eaed7a19010dc2ac
+
+2022-08-17 13:41:55|removeFromAllRooms(): 27
+
+2022-08-17 13:41:55|removeFromAllRooms(): done n
+2022-08-17 13:42:06|removeFromAllRooms(): 32
+
+2022-08-17 13:42:06|removeFromAllRooms(): done n
+2022-08-19 08:53:50|BoostTCPServer::async_accept()
+2022-08-19 08:53:50|Connected client ID: 38 session: ab39ad02d9914e33
+
+2022-08-19 08:58:30|removeFromAllRooms(): 38
+
+2022-08-19 08:58:30|removeFromAllRooms(): done n
+2022-08-19 08:59:34|BoostTCPServer::async_accept()
+2022-08-19 08:59:34|Connected client ID: 32 session: e5f124ed98d5f7e8
+
+2022-08-19 09:02:15|removeFromAllRooms(): 32
+
+2022-08-19 09:02:15|removeFromAllRooms(): done n
+2022-08-19 09:07:15|BoostTCPServer::async_accept()
+2022-08-19 09:07:15|Connected client ID: 32 session: f4cfa2bdc43bb8d7
+
+2022-08-19 09:08:53|removeFromAllRooms(): 32
+
+2022-08-19 09:08:53|removeFromAllRooms(): done n
+2022-08-19 09:10:10|BoostTCPServer::async_accept()
+2022-08-19 09:10:10|Connected client ID: 32 session: 84ab8875488dd9e6
+
+2022-08-19 09:10:55|removeFromAllRooms(): 32
+
+2022-08-19 09:10:55|removeFromAllRooms(): done n
+2022-08-19 09:12:35|BoostTCPServer::async_accept()
+2022-08-19 09:12:35|Connected client ID: 32 session: 0238f141f6df68b7
+
+2022-08-19 09:14:40|removeFromAllRooms(): 32
+
+2022-08-19 09:14:40|removeFromAllRooms(): done n
+2022-08-19 09:19:04|BoostTCPServer::async_accept()
+2022-08-19 09:19:04|Connected client ID: 32 session: 86dc91b37c01c8a8
+
+2022-08-19 09:19:29|Command received: broadcast
+
+2022-08-19 09:19:43|Command received: broadcast
+
+2022-08-19 09:49:38|removeFromAllRooms(): 32
+
+2022-08-19 09:49:38|removeFromAllRooms(): done n
+2022-08-19 09:50:32|BoostTCPServer::async_accept()
+2022-08-19 09:50:32|Connected client ID: 32 session: ff4b57248ce4c05a
+
+2022-08-19 09:51:29|removeFromAllRooms(): 32
+
+2022-08-19 09:51:29|removeFromAllRooms(): done n
+2022-08-19 09:52:39|BoostTCPServer::async_accept()
+2022-08-19 09:52:39|Connected client ID: 32 session: fdc9ee0a72e98663
+
+2022-08-19 11:01:40|removeFromAllRooms(): 32
+
+2022-08-19 11:01:40|removeFromAllRooms(): done n
+2022-08-19 11:02:17|BoostTCPServer::async_accept()
+2022-08-19 11:02:17|Connected client ID: 32 session: 9f621c459bfa2aa4
+
+2022-08-19 11:05:57|removeFromAllRooms(): 32
+
+2022-08-19 11:05:57|removeFromAllRooms(): done n
+2022-08-19 11:27:21|BoostTCPServer::async_accept()
+2022-08-19 11:27:21|Connected client ID: 32 session: eac9efbe8e316893
+
+2022-08-19 11:28:09|removeFromAllRooms(): 32
+
+2022-08-19 11:28:09|removeFromAllRooms(): done n
+2022-08-19 11:29:11|BoostTCPServer::async_accept()
+2022-08-19 11:29:11|Connected client ID: 32 session: 84715e1805a39419
+
+2022-08-19 11:38:34|removeFromAllRooms(): 32
+
+2022-08-19 11:38:34|removeFromAllRooms(): done n
+2022-08-19 12:52:04|BoostTCPServer::async_accept()
+2022-08-19 12:52:04|Connected client ID: 38 session: 88562dd8b27b1337
+
+2022-08-19 12:55:21|removeFromAllRooms(): 38
+
+2022-08-19 12:55:21|removeFromAllRooms(): done n
+2022-08-19 12:59:31|BoostTCPServer::async_accept()
+2022-08-19 12:59:31|Connected client ID: 38 session: 59742525d0c9b7bf
+
+2022-08-19 13:02:13|removeFromAllRooms(): 38
+
+2022-08-19 13:02:13|removeFromAllRooms(): done n
+2022-08-19 13:04:49|BoostTCPServer::async_accept()
+2022-08-19 13:04:49|Connected client ID: 38 session: 86c58cb33b5b2721
+
+2022-08-19 13:06:24|removeFromAllRooms(): 38
+
+2022-08-19 13:06:24|removeFromAllRooms(): done n
+2022-08-19 13:08:23|BoostTCPServer::async_accept()
+2022-08-19 13:08:23|Connected client ID: 32 session: b432616e775a97e9
+
+2022-08-19 13:12:10|BoostTCPServer::async_accept()
+2022-08-19 13:12:10|Connected client ID: 32 session: 3c191b7061e4df60
+
+2022-08-19 13:12:57|removeFromAllRooms(): 32
+
+2022-08-19 13:12:57|removeFromAllRooms(): done n
+2022-08-19 13:14:10|BoostTCPServer::async_accept()
+2022-08-19 13:14:10|Connected client ID: 32 session: adbca908e6c78739
+
+2022-08-19 13:15:06|removeFromAllRooms(): 32
+
+2022-08-19 13:15:06|removeFromAllRooms(): done n
+2022-08-19 13:38:24|BoostTCPServer::async_accept()
+2022-08-19 13:38:24|Connected client ID: 38 session: d7ec6b875ffb2dbc
+
+2022-08-19 13:38:54|removeFromAllRooms(): 38
+
+2022-08-19 13:38:54|removeFromAllRooms(): done n
+2022-08-19 13:39:46|BoostTCPServer::async_accept()
+2022-08-19 13:39:46|Connected client ID: 38 session: a669f0a98943ad02
+
+2022-08-19 13:40:31|removeFromAllRooms(): 38
+
+2022-08-19 13:40:31|removeFromAllRooms(): done n
+2022-08-19 13:41:22|BoostTCPServer::async_accept()
+2022-08-19 13:41:22|Connected client ID: 38 session: 426341c8fe56f796
+
+2022-08-19 13:44:10|removeFromAllRooms(): 38
+
+2022-08-19 13:44:10|removeFromAllRooms(): done n
+2022-08-19 13:52:39|BoostTCPServer::async_accept()
+2022-08-19 13:52:39|Connected client ID: 32 session: cc0a59446ffb495a
+
+2022-08-19 13:53:29|removeFromAllRooms(): 32
+
+2022-08-19 13:53:29|removeFromAllRooms(): done n
+2022-08-19 13:54:01|BoostTCPServer::async_accept()
+2022-08-19 13:54:01|Connected client ID: 32 session: 20d6e74a48f5a398
+
+2022-08-19 13:55:02|removeFromAllRooms(): 32
+
+2022-08-19 13:55:02|removeFromAllRooms(): done n
+2022-08-19 13:55:30|BoostTCPServer::async_accept()
+2022-08-19 13:55:30|Connected client ID: 32 session: 5ba14786ba2456d0
+
+2022-08-19 13:55:48|removeFromAllRooms(): 32
+
+2022-08-19 13:55:48|removeFromAllRooms(): done n
+2022-08-19 13:56:14|BoostTCPServer::async_accept()
+2022-08-19 13:56:14|Connected client ID: 32 session: f89dd228d096afe0
+
+2022-08-19 13:57:59|BoostTCPServer::async_accept()
+2022-08-19 13:57:59|Connected client ID: 32 session: e4a933cfe18582ed
+
+2022-08-19 13:58:32|removeFromAllRooms(): 32
+
+2022-08-19 13:58:32|removeFromAllRooms(): done n
+2022-08-19 13:58:57|BoostTCPServer::async_accept()
+2022-08-19 13:58:57|Connected client ID: 32 session: b9a29f3c08dba7c2
+
+2022-08-19 13:59:40|removeFromAllRooms(): 32
+
+2022-08-19 13:59:40|removeFromAllRooms(): done n
+2022-08-19 14:00:29|BoostTCPServer::async_accept()
+2022-08-19 14:00:29|Connected client ID: 32 session: 50b4d6aaa64f6f3b
+
+2022-08-19 14:01:49|removeFromAllRooms(): 32
+
+2022-08-19 14:01:49|removeFromAllRooms(): done n
+2022-08-19 14:03:26|BoostTCPServer::async_accept()
+2022-08-19 14:03:26|Connected client ID: 38 session: 119131f08ed8bd21
+
+2022-08-19 14:03:58|removeFromAllRooms(): 38
+
+2022-08-19 14:03:58|removeFromAllRooms(): done n
+2022-08-19 14:05:35|BoostTCPServer::async_accept()
+2022-08-19 14:05:35|Connected client ID: 32 session: d9d903840fc65038
+
+2022-08-19 14:06:35|removeFromAllRooms(): 32
+
+2022-08-19 14:06:35|removeFromAllRooms(): done n
+2022-08-19 14:07:21|BoostTCPServer::async_accept()
+2022-08-19 14:07:21|Connected client ID: 32 session: d9149ade5d01f1e9
+
+2022-08-19 14:08:20|BoostTCPServer::async_accept()
+2022-08-19 14:08:20|Connected client ID: 32 session: 29aaaa89d55a6cee
+
+2022-08-19 14:09:35|removeFromAllRooms(): 32
+
+2022-08-19 14:09:35|removeFromAllRooms(): done n
+2022-08-19 14:10:09|BoostTCPServer::async_accept()
+2022-08-19 14:10:09|Connected client ID: 32 session: 37f7e3baa32cbb9a
+
+2022-08-19 14:12:55|removeFromAllRooms(): 32
+
+2022-08-19 14:12:55|removeFromAllRooms(): done n
+2022-08-19 14:14:26|BoostTCPServer::async_accept()
+2022-08-19 14:14:26|Connected client ID: 32 session: b3742326d52fd6bc
+
+2022-08-19 14:15:38|removeFromAllRooms(): 32
+
+2022-08-19 14:15:38|removeFromAllRooms(): done n
+2022-08-19 14:16:16|BoostTCPServer::async_accept()
+2022-08-19 14:16:16|Connected client ID: 32 session: 5f687b682d398fdc
+
+2022-08-19 14:18:07|removeFromAllRooms(): 32
+
+2022-08-19 14:18:07|removeFromAllRooms(): done n
+2022-08-19 14:18:25|BoostTCPServer::async_accept()
+2022-08-19 14:18:25|Connected client ID: 32 session: 4674f5c5ff0a900c
+
+2022-08-19 14:19:00|removeFromAllRooms(): 32
+
+2022-08-19 14:19:00|removeFromAllRooms(): done n
+2022-08-19 14:19:24|BoostTCPServer::async_accept()
+2022-08-19 14:19:24|Connected client ID: 32 session: 05eb1d8294d441e2
+
+2022-08-19 14:20:33|removeFromAllRooms(): 32
+
+2022-08-19 14:20:33|removeFromAllRooms(): done n
+2022-08-19 14:21:05|BoostTCPServer::async_accept()
+2022-08-19 14:21:05|Connected client ID: 32 session: 034046eae14dc6ab
+
+2022-08-19 14:23:22|removeFromAllRooms(): 32
+
+2022-08-19 14:23:22|removeFromAllRooms(): done n
+2022-08-19 14:23:46|BoostTCPServer::async_accept()
+2022-08-19 14:23:46|Connected client ID: 32 session: ccc99cb624ce2fec
+
+2022-08-19 14:24:22|removeFromAllRooms(): 32
+
+2022-08-19 14:24:22|removeFromAllRooms(): done n
+2022-08-19 14:24:54|BoostTCPServer::async_accept()
+2022-08-19 14:24:54|Connected client ID: 32 session: 9402abb8bed8c9c6
+
+2022-08-19 14:27:37|removeFromAllRooms(): 32
+
+2022-08-19 14:27:37|removeFromAllRooms(): done n
+2022-08-19 14:28:41|BoostTCPServer::async_accept()
+2022-08-19 14:28:41|Connected client ID: 38 session: cedb1f792f461865
+
+2022-08-19 14:30:33|removeFromAllRooms(): 38
+
+2022-08-19 14:30:33|removeFromAllRooms(): done n
+2022-08-19 14:31:58|BoostTCPServer::async_accept()
+2022-08-19 14:31:58|Connected client ID: 38 session: 320469bba04f116e
+
+2022-08-19 14:32:36|removeFromAllRooms(): 38
+
+2022-08-19 14:32:36|removeFromAllRooms(): done n
+2022-08-19 14:33:03|BoostTCPServer::async_accept()
+2022-08-19 14:33:03|Connected client ID: 38 session: 1b0bdd54c405acc7
+
+2022-08-19 14:38:15|removeFromAllRooms(): 38
+
+2022-08-19 14:38:15|removeFromAllRooms(): done n
+2022-08-19 14:44:48|BoostTCPServer::async_accept()
+2022-08-19 14:44:48|Connected client ID: 32 session: 95a78f8373159e4c
+
+2022-08-19 14:46:13|removeFromAllRooms(): 32
+
+2022-08-19 14:46:13|removeFromAllRooms(): done n
+2022-08-19 14:46:36|BoostTCPServer::async_accept()
+2022-08-19 14:46:36|Connected client ID: 32 session: c2e6c66c7e5dd7c2
+
+2022-08-19 14:47:24|removeFromAllRooms(): 32
+
+2022-08-19 14:47:24|removeFromAllRooms(): done n
+2022-08-19 14:48:14|BoostTCPServer::async_accept()
+2022-08-19 14:48:14|Connected client ID: 38 session: efc4a4b6aa55bc8c
+
+2022-08-19 14:49:18|removeFromAllRooms(): 38
+
+2022-08-19 14:49:18|removeFromAllRooms(): done n
+2022-08-19 14:50:48|BoostTCPServer::async_accept()
+2022-08-19 14:50:48|Connected client ID: 32 session: 857053d6da51d5ee
+
+2022-08-19 14:55:55|removeFromAllRooms(): 32
+
+2022-08-19 14:55:55|removeFromAllRooms(): done n
+2022-08-19 14:56:30|BoostTCPServer::async_accept()
+2022-08-19 14:56:30|Connected client ID: 32 session: 798727a5a1459b23
+
+2022-08-19 14:57:41|removeFromAllRooms(): 32
+
+2022-08-19 14:57:41|removeFromAllRooms(): done n
+2022-08-19 14:58:05|BoostTCPServer::async_accept()
+2022-08-19 14:58:05|Connected client ID: 32 session: ef60e5af2fac8b3e
+
+2022-08-19 15:00:54|removeFromAllRooms(): 32
+
+2022-08-19 15:00:54|removeFromAllRooms(): done n
+2022-08-22 07:09:05|BoostTCPServer::async_accept()
+2022-08-22 07:09:05|Connected client ID: 27 session: a8f0424c34ff771f
+
+2022-08-22 07:09:11|removeFromAllRooms(): 27
+
+2022-08-22 07:09:11|removeFromAllRooms(): done n
+2022-08-22 13:23:28|BoostTCPServer::async_accept()
+2022-08-22 13:23:28|Connected client ID: 27 session: b989c630998631fb
+
+2022-08-22 13:25:13|removeFromAllRooms(): 27
+
+2022-08-22 13:25:13|removeFromAllRooms(): done n
+2022-08-22 13:27:47|BoostTCPServer::async_accept()
+2022-08-22 13:27:47|Connected client ID: 27 session: 8048c5a2ef6f676a
+
+2022-08-22 13:28:50|removeFromAllRooms(): 27
+
+2022-08-22 13:28:50|removeFromAllRooms(): done n
+2022-08-23 12:39:56|BoostTCPServer::async_accept()
+2022-08-23 12:39:56|Connected client ID: 32 session: 267eb1b0c3565831
+
+2022-08-23 12:44:22|removeFromAllRooms(): 32
+
+2022-08-23 12:44:22|removeFromAllRooms(): done n
+2022-08-23 12:45:23|BoostTCPServer::async_accept()
+2022-08-23 12:45:23|Connected client ID: 32 session: 1d360255ec6b98e2
+
+2022-08-23 12:48:21|removeFromAllRooms(): 32
+
+2022-08-23 12:48:21|removeFromAllRooms(): done n
+2022-08-24 07:01:29|BoostTCPServer::async_accept()
+2022-08-24 07:01:29|Connected client ID: 32 session: f64fd8a8846f9967
+
+2022-08-24 07:07:35|removeFromAllRooms(): 32
+
+2022-08-24 07:07:35|removeFromAllRooms(): done n
+2022-08-24 07:08:34|BoostTCPServer::async_accept()
+2022-08-24 07:08:34|Connected client ID: 32 session: ec8433aa71cd61af
+
+2022-08-24 07:12:52|removeFromAllRooms(): 32
+
+2022-08-24 07:12:52|removeFromAllRooms(): done n
+2022-08-24 07:13:39|BoostTCPServer::async_accept()
+2022-08-24 07:13:39|Connected client ID: 32 session: df9b952b8dcf9835
+
+2022-08-24 07:15:07|removeFromAllRooms(): 32
+
+2022-08-24 07:15:07|removeFromAllRooms(): done n
+2022-08-24 07:17:41|BoostTCPServer::async_accept()
+2022-08-24 07:17:41|Connected client ID: 32 session: 57788ac8100ec916
+
+2022-08-24 07:20:36|removeFromAllRooms(): 32
+
+2022-08-24 07:20:36|removeFromAllRooms(): done n
+2022-08-24 07:20:57|BoostTCPServer::async_accept()
+2022-08-24 07:20:57|Connected client ID: 32 session: e4068a2c50e4d1fa
+
+2022-08-24 07:26:50|removeFromAllRooms(): 32
+
+2022-08-24 07:26:50|removeFromAllRooms(): done n
+2022-08-24 07:27:27|BoostTCPServer::async_accept()
+2022-08-24 07:27:27|Connected client ID: 32 session: 2c3293cc393d571a
+
+2022-08-24 07:28:30|removeFromAllRooms(): 32
+
+2022-08-24 07:28:30|removeFromAllRooms(): done n
+2022-08-24 07:28:49|BoostTCPServer::async_accept()
+2022-08-24 07:28:49|Connected client ID: 32 session: 60a1e031731027ea
+
+2022-08-24 07:30:56|removeFromAllRooms(): 32
+
+2022-08-24 07:30:56|removeFromAllRooms(): done n
+2022-08-24 07:31:27|BoostTCPServer::async_accept()
+2022-08-24 07:31:27|Connected client ID: 32 session: 5063f0a5050c626e
+
+2022-08-24 07:32:16|removeFromAllRooms(): 32
+
+2022-08-24 07:32:16|removeFromAllRooms(): done n
+2022-08-24 07:32:36|BoostTCPServer::async_accept()
+2022-08-24 07:32:36|Connected client ID: 32 session: 57f0be54c1ecbc33
+
+2022-08-24 07:33:43|removeFromAllRooms(): 32
+
+2022-08-24 07:33:43|removeFromAllRooms(): done n
+2022-08-24 07:34:02|BoostTCPServer::async_accept()
+2022-08-24 07:34:02|Connected client ID: 32 session: 6d5f684aa5a7db1d
+
+2022-08-24 07:37:16|removeFromAllRooms(): 32
+
+2022-08-24 07:37:16|removeFromAllRooms(): done n
+2022-08-24 08:37:48|BoostTCPServer::async_accept()
+2022-08-24 08:37:48|Connected client ID: 32 session: 9acbcbddf53cfe46
+
+2022-08-24 08:43:28|removeFromAllRooms(): 32
+
+2022-08-24 08:43:28|removeFromAllRooms(): done n
+2022-08-24 08:44:18|BoostTCPServer::async_accept()
+2022-08-24 08:44:18|Connected client ID: 32 session: b54b87dae02a7a9d
+
+2022-08-24 08:45:16|removeFromAllRooms(): 32
+
+2022-08-24 08:45:16|removeFromAllRooms(): done n
+2022-08-24 08:45:37|BoostTCPServer::async_accept()
+2022-08-24 08:45:37|Connected client ID: 32 session: 52be0192a555557d
+
+2022-08-24 08:47:43|removeFromAllRooms(): 32
+
+2022-08-24 08:47:43|removeFromAllRooms(): done n
+2022-08-24 08:49:33|BoostTCPServer::async_accept()
+2022-08-24 08:49:33|Connected client ID: 32 session: 4df8220506fb55d1
+
+2022-08-24 08:55:03|removeFromAllRooms(): 32
+
+2022-08-24 08:55:03|removeFromAllRooms(): done n
+2022-08-24 08:58:22|BoostTCPServer::async_accept()
+2022-08-24 08:58:22|Connected client ID: 32 session: 02bda5cdffcdde5e
+
+2022-08-24 09:23:23|BoostTCPServer::async_accept()
+2022-08-24 09:23:23|Connected client ID: 32 session: 833db75dbb6e7add
+
+2022-08-24 09:25:14|removeFromAllRooms(): 32
+
+2022-08-24 09:25:14|removeFromAllRooms(): done n
+2022-08-24 09:25:46|BoostTCPServer::async_accept()
+2022-08-24 09:25:46|Connected client ID: 32 session: 9d01b190ff2e35d0
+
+2022-08-24 09:32:07|removeFromAllRooms(): 32
+
+2022-08-24 09:32:07|removeFromAllRooms(): done n
+2022-08-24 09:39:37|BoostTCPServer::async_accept()
+2022-08-24 09:39:37|Connected client ID: 32 session: 9e98f41b5d5be6e5
+
+2022-08-24 09:52:15|removeFromAllRooms(): 32
+
+2022-08-24 09:52:15|removeFromAllRooms(): done n
+2022-08-24 09:55:19|BoostTCPServer::async_accept()
+2022-08-24 09:55:19|Connected client ID: 32 session: 20b2d7eb1b02ee41
+
+2022-08-24 10:01:22|removeFromAllRooms(): 32
+
+2022-08-24 10:01:22|removeFromAllRooms(): done n
+2022-08-24 10:02:47|BoostTCPServer::async_accept()
+2022-08-24 10:02:47|Connected client ID: 32 session: 3d2531fa104eecdd
+
+2022-08-24 11:08:49|removeFromAllRooms(): 32
+
+2022-08-24 11:08:49|removeFromAllRooms(): done n
+2022-08-24 11:09:35|BoostTCPServer::async_accept()
+2022-08-24 11:09:35|Connected client ID: 32 session: 8fd390f2282af4e5
+
+2022-08-24 11:21:55|removeFromAllRooms(): 32
+
+2022-08-24 11:21:55|removeFromAllRooms(): done n
+2022-08-24 11:22:27|BoostTCPServer::async_accept()
+2022-08-24 11:22:27|Connected client ID: 32 session: 73d176dff637ed1c
+
+2022-08-24 11:25:28|removeFromAllRooms(): 32
+
+2022-08-24 11:25:28|removeFromAllRooms(): done n
+2022-08-24 11:26:08|BoostTCPServer::async_accept()
+2022-08-24 11:26:08|Connected client ID: 32 session: 8274216988ffb761
+
+2022-08-24 11:45:19|removeFromAllRooms(): 32
+
+2022-08-24 11:45:19|removeFromAllRooms(): done n
+2022-08-24 11:46:37|BoostTCPServer::async_accept()
+2022-08-24 11:46:37|Connected client ID: 32 session: 36ea63996d906419
+
+2022-08-24 11:48:03|removeFromAllRooms(): 32
+
+2022-08-24 11:48:03|removeFromAllRooms(): done n
+2022-08-24 11:48:40|BoostTCPServer::async_accept()
+2022-08-24 11:48:40|Connected client ID: 32 session: 14e6b35d1016bd4e
+
+2022-08-24 11:49:57|removeFromAllRooms(): 32
+
+2022-08-24 11:49:57|removeFromAllRooms(): done n
+2022-08-24 11:50:27|BoostTCPServer::async_accept()
+2022-08-24 11:50:27|Connected client ID: 32 session: b428a833afe27116
+
+2022-08-24 11:58:15|removeFromAllRooms(): 32
+
+2022-08-24 11:58:15|removeFromAllRooms(): done n
+2022-08-24 11:59:05|BoostTCPServer::async_accept()
+2022-08-24 11:59:05|Connected client ID: 32 session: 7c4b8334f55467fd
+
+2022-08-24 12:03:16|removeFromAllRooms(): 32
+
+2022-08-24 12:03:16|removeFromAllRooms(): done n
+2022-08-24 12:03:45|BoostTCPServer::async_accept()
+2022-08-24 12:03:45|Connected client ID: 32 session: 44e651b935372768
+
+2022-08-24 12:07:03|removeFromAllRooms(): 32
+
+2022-08-24 12:07:03|removeFromAllRooms(): done n
+2022-08-24 12:07:38|BoostTCPServer::async_accept()
+2022-08-24 12:07:38|Connected client ID: 32 session: a804bac71cf1ff08
+
+2022-08-24 12:10:00|removeFromAllRooms(): 32
+
+2022-08-24 12:10:00|removeFromAllRooms(): done n
+2022-08-24 12:11:14|BoostTCPServer::async_accept()
+2022-08-24 12:11:14|Connected client ID: 32 session: 58d6a147f969e4e1
+
+2022-08-24 12:31:33|removeFromAllRooms(): 32
+
+2022-08-24 12:31:33|removeFromAllRooms(): done n
+2022-08-24 12:32:16|BoostTCPServer::async_accept()
+2022-08-24 12:32:16|Connected client ID: 32 session: 9140a2f7e6e564e4
+
+2022-08-24 12:37:09|removeFromAllRooms(): 32
+
+2022-08-24 12:37:09|removeFromAllRooms(): done n
+2022-08-24 12:38:21|BoostTCPServer::async_accept()
+2022-08-24 12:38:21|Connected client ID: 32 session: 87fc15ddb12b1d70
+
+2022-08-24 12:40:34|removeFromAllRooms(): 32
+
+2022-08-24 12:40:34|removeFromAllRooms(): done n
+2022-08-24 12:41:36|BoostTCPServer::async_accept()
+2022-08-24 12:41:36|Connected client ID: 32 session: 10bb458ada94ff68
+
+2022-08-24 12:42:52|removeFromAllRooms(): 32
+
+2022-08-24 12:42:52|removeFromAllRooms(): done n
+2022-08-24 12:47:43|BoostTCPServer::async_accept()
+2022-08-24 12:47:43|Connected client ID: 32 session: 2e99eb43e52de311
+
+2022-08-24 12:53:50|removeFromAllRooms(): 32
+
+2022-08-24 12:53:50|removeFromAllRooms(): done n
+2022-08-24 12:54:15|BoostTCPServer::async_accept()
+2022-08-24 12:54:15|Connected client ID: 32 session: ba49313aa5b63f3c
+
+2022-08-24 12:57:55|removeFromAllRooms(): 32
+
+2022-08-24 12:57:55|removeFromAllRooms(): done n
+2022-08-24 13:02:49|BoostTCPServer::async_accept()
+2022-08-24 13:02:49|Connected client ID: 32 session: 46555a73f4e79949
+
+2022-08-24 13:04:50|removeFromAllRooms(): 32
+
+2022-08-24 13:04:50|removeFromAllRooms(): done n
+2022-08-24 13:05:43|BoostTCPServer::async_accept()
+2022-08-24 13:05:43|Connected client ID: 32 session: 6c73e1e6f5c8f1a7
+
+2022-08-24 13:07:52|removeFromAllRooms(): 32
+
+2022-08-24 13:07:52|removeFromAllRooms(): done n
+2022-08-24 13:08:16|BoostTCPServer::async_accept()
+2022-08-24 13:08:16|Connected client ID: 32 session: 10a259ea2c6a6ee1
+
+2022-08-24 13:09:47|removeFromAllRooms(): 32
+
+2022-08-24 13:09:47|removeFromAllRooms(): done n
+2022-08-24 13:10:48|BoostTCPServer::async_accept()
+2022-08-24 13:10:48|Connected client ID: 32 session: 75c97634c2f55b42
+
+2022-08-24 13:12:51|removeFromAllRooms(): 32
+
+2022-08-24 13:12:51|removeFromAllRooms(): done n
+2022-08-24 13:13:41|BoostTCPServer::async_accept()
+2022-08-24 13:13:41|Connected client ID: 32 session: f67d3fa9ae970037
+
+2022-08-24 13:16:57|removeFromAllRooms(): 32
+
+2022-08-24 13:16:57|removeFromAllRooms(): done n
+2022-08-24 13:27:08|BoostTCPServer::async_accept()
+2022-08-24 13:27:08|Connected client ID: 32 session: 6eba749d13ac7707
+
+2022-08-24 13:59:01|removeFromAllRooms(): 32
+
+2022-08-24 13:59:01|removeFromAllRooms(): done n
+2022-08-24 14:46:51|BoostTCPServer::async_accept()
+2022-08-24 14:46:51|Connected client ID: 32 session: 92617ed544f80dbd
+
+2022-08-24 14:51:23|removeFromAllRooms(): 32
+
+2022-08-24 14:51:23|removeFromAllRooms(): done n
+2022-08-24 14:51:57|BoostTCPServer::async_accept()
+2022-08-24 14:51:57|Connected client ID: 32 session: ca81b596e685fcfd
+
+2022-08-24 14:52:54|removeFromAllRooms(): 32
+
+2022-08-24 14:52:54|removeFromAllRooms(): done n
+2022-08-24 14:53:33|BoostTCPServer::async_accept()
+2022-08-24 14:53:33|Connected client ID: 32 session: 3255c05929283349
+
+2022-08-24 15:14:10|removeFromAllRooms(): 32
+
+2022-08-24 15:14:11|removeFromAllRooms(): done n
+2022-08-24 15:15:37|BoostTCPServer::async_accept()
+2022-08-24 15:15:37|Connected client ID: 38 session: 3ccb6c23a2d2476f
+
+2022-08-24 15:16:23|removeFromAllRooms(): 38
+
+2022-08-24 15:16:23|removeFromAllRooms(): done n
+2022-08-24 15:17:10|BoostTCPServer::async_accept()
+2022-08-24 15:17:10|Connected client ID: 32 session: 0398c3a36015d5b2
+
+2022-08-24 15:18:25|removeFromAllRooms(): 32
+
+2022-08-24 15:18:25|removeFromAllRooms(): done n
+2022-08-24 15:18:56|BoostTCPServer::async_accept()
+2022-08-24 15:18:56|Connected client ID: 32 session: 9763362fa01e5300
+
+2022-08-24 15:19:19|removeFromAllRooms(): 32
+
+2022-08-24 15:19:19|removeFromAllRooms(): done n
+2022-08-24 15:20:01|BoostTCPServer::async_accept()
+2022-08-24 15:20:01|Connected client ID: 32 session: 6835306844d370fc
+
+2022-08-24 15:20:14|removeFromAllRooms(): 32
+
+2022-08-24 15:20:14|removeFromAllRooms(): done n
+2022-08-24 15:20:35|BoostTCPServer::async_accept()
+2022-08-24 15:20:35|Connected client ID: 32 session: 3c548ed9bda0c4d7
+
+2022-08-24 15:22:30|removeFromAllRooms(): 32
+
+2022-08-24 15:22:30|removeFromAllRooms(): done n
+2022-08-24 15:23:51|BoostTCPServer::async_accept()
+2022-08-24 15:23:51|Connected client ID: 32 session: 03c7063b453608fa
+
+2022-08-24 15:24:08|removeFromAllRooms(): 32
+
+2022-08-24 15:24:08|removeFromAllRooms(): done n
+2022-08-24 15:25:01|BoostTCPServer::async_accept()
+2022-08-24 15:25:01|Connected client ID: 32 session: b2fe29e0017884a2
+
+2022-08-24 15:25:24|removeFromAllRooms(): 32
+
+2022-08-24 15:25:24|removeFromAllRooms(): done n
+2022-08-24 15:25:53|BoostTCPServer::async_accept()
+2022-08-24 15:25:53|Connected client ID: 32 session: 48f51b4175a72f6d
+
+2022-08-24 15:27:45|removeFromAllRooms(): 32
+
+2022-08-24 15:27:45|removeFromAllRooms(): done n
+2022-08-25 05:59:25|BoostTCPServer::async_accept()
+2022-08-25 05:59:25|Connected client ID: 32 session: abcde9e0d2615017
+
+2022-08-25 06:00:15|removeFromAllRooms(): 32
+
+2022-08-25 06:00:15|removeFromAllRooms(): done n
+2022-08-25 06:00:43|BoostTCPServer::async_accept()
+2022-08-25 06:00:43|Connected client ID: 32 session: 2a64d900449e6919
+
+2022-08-25 06:28:26|BoostTCPServer::async_accept()
+2022-08-25 06:28:26|Connected client ID: 32 session: 4a41566de835ee13
+
+2022-08-25 06:29:02|removeFromAllRooms(): 32
+
+2022-08-25 06:29:02|removeFromAllRooms(): done n
+2022-08-25 06:29:43|BoostTCPServer::async_accept()
+2022-08-25 06:29:43|Connected client ID: 32 session: 4e5833b1784d5ed6
+
+2022-08-25 06:30:48|removeFromAllRooms(): 32
+
+2022-08-25 06:30:48|removeFromAllRooms(): done n
+2022-08-25 06:31:54|BoostTCPServer::async_accept()
+2022-08-25 06:31:54|Connected client ID: 32 session: 9fba30f5a20ba084
+
+2022-08-25 06:32:23|BoostTCPServer::async_accept()
+2022-08-25 06:32:23|Connected client ID: 32 session: 1d37de0a19d4cc9c
+
+2022-08-25 06:32:34|removeFromAllRooms(): 32
+
+2022-08-25 06:32:34|removeFromAllRooms(): done n
+2022-08-25 06:32:53|BoostTCPServer::async_accept()
+2022-08-25 06:32:53|Connected client ID: 32 session: 2b108a4390a26efe
+
+2022-08-25 06:33:15|removeFromAllRooms(): 32
+
+2022-08-25 06:33:15|removeFromAllRooms(): done n
+2022-08-25 06:34:54|BoostTCPServer::async_accept()
+2022-08-25 06:34:54|Connected client ID: 32 session: 2abd498d84aed75d
+
+2022-08-25 06:39:08|removeFromAllRooms(): 32
+
+2022-08-25 06:39:08|removeFromAllRooms(): done n
+2022-08-25 06:39:55|BoostTCPServer::async_accept()
+2022-08-25 06:39:55|Connected client ID: 32 session: 94d0fe44c3fb251e
+
+2022-08-25 06:59:05|BoostTCPServer::async_accept()
+2022-08-25 06:59:05|Connected client ID: 32 session: 30e9653faffb0de8
+
+2022-08-25 07:02:48|removeFromAllRooms(): 32
+
+2022-08-25 07:02:48|removeFromAllRooms(): done n
+2022-08-25 07:03:06|BoostTCPServer::async_accept()
+2022-08-25 07:03:06|Connected client ID: 32 session: 666bcf84ab474b1e
+
+2022-08-25 07:05:21|removeFromAllRooms(): 32
+
+2022-08-25 07:05:21|removeFromAllRooms(): done n
+2022-08-25 07:09:55|BoostTCPServer::async_accept()
+2022-08-25 07:09:55|Connected client ID: 32 session: a760d710adf38cde
+
+2022-08-25 07:10:14|removeFromAllRooms(): 32
+
+2022-08-25 07:10:14|removeFromAllRooms(): done n
+2022-08-25 07:10:48|BoostTCPServer::async_accept()
+2022-08-25 07:10:48|Connected client ID: 32 session: 08cf5a9f5204292c
+
+2022-08-25 07:10:53|removeFromAllRooms(): 32
+
+2022-08-25 07:10:53|removeFromAllRooms(): done n
+2022-08-25 07:17:57|BoostTCPServer::async_accept()
+2022-08-25 07:17:58|Connected client ID: 32 session: 1b8efb7a35b3ba7e
+
+2022-08-25 07:18:09|removeFromAllRooms(): 32
+
+2022-08-25 07:18:09|removeFromAllRooms(): done n
+2022-08-25 07:32:55|BoostTCPServer::async_accept()
+2022-08-25 07:32:55|Connected client ID: 32 session: 5701915921109d65
+
+2022-08-25 07:33:37|removeFromAllRooms(): 32
+
+2022-08-25 07:33:37|removeFromAllRooms(): done n
+2022-08-25 07:33:50|BoostTCPServer::async_accept()
+2022-08-25 07:33:50|Connected client ID: 32 session: c3e7bdccfbeca4ef
+
+2022-08-25 07:33:58|removeFromAllRooms(): 32
+
+2022-08-25 07:33:58|removeFromAllRooms(): done n
+2022-08-25 07:38:45|BoostTCPServer::async_accept()
+2022-08-25 07:38:46|Connected client ID: 32 session: a4a7d3e2decf8b17
+
+2022-08-25 07:38:51|removeFromAllRooms(): 32
+
+2022-08-25 07:38:51|removeFromAllRooms(): done n
+2022-08-25 07:47:20|BoostTCPServer::async_accept()
+2022-08-25 07:47:20|Connected client ID: 32 session: 67c01e7afb50aea5
+
+2022-08-25 07:48:19|removeFromAllRooms(): 32
+
+2022-08-25 07:48:19|removeFromAllRooms(): done n
+2022-08-25 07:48:50|BoostTCPServer::async_accept()
+2022-08-25 07:48:50|Connected client ID: 27 session: 5b02a95faf827f4b
+
+2022-08-25 07:49:06|BoostTCPServer::async_accept()
+2022-08-25 07:49:06|Connected client ID: 32 session: 461431d93eb1eb65
+
+2022-08-25 07:49:23|removeFromAllRooms(): 32
+
+2022-08-25 07:49:23|removeFromAllRooms(): done n
+2022-08-25 07:56:46|removeFromAllRooms(): 27
+
+2022-08-25 07:56:46|removeFromAllRooms(): done n
+2022-08-25 08:14:37|BoostTCPServer::async_accept()
+2022-08-25 08:14:37|Connected client ID: 32 session: e1929636ed4e8335
+
+2022-08-25 08:15:00|removeFromAllRooms(): 32
+
+2022-08-25 08:15:00|removeFromAllRooms(): done n
+2022-08-25 08:17:57|BoostTCPServer::async_accept()
+2022-08-25 08:17:57|Connected client ID: 32 session: 4fb969f875f43433
+
+2022-08-25 08:19:46|removeFromAllRooms(): 32
+
+2022-08-25 08:19:46|removeFromAllRooms(): done n
+2022-08-25 08:20:12|BoostTCPServer::async_accept()
+2022-08-25 08:20:12|Connected client ID: 32 session: f6a371104d663543
+
+2022-08-25 08:21:40|removeFromAllRooms(): 32
+
+2022-08-25 08:21:40|removeFromAllRooms(): done n
+2022-08-25 08:23:09|BoostTCPServer::async_accept()
+2022-08-25 08:23:09|Connected client ID: 32 session: 2bc5ecad6e4871ab
+
+2022-08-25 08:24:38|removeFromAllRooms(): 32
+
+2022-08-25 08:24:38|removeFromAllRooms(): done n
+2022-08-25 08:25:03|BoostTCPServer::async_accept()
+2022-08-25 08:25:04|Connected client ID: 32 session: 91cb06d53533fbf0
+
+2022-08-25 08:25:16|removeFromAllRooms(): 32
+
+2022-08-25 08:25:16|removeFromAllRooms(): done n
+2022-08-25 08:26:06|BoostTCPServer::async_accept()
+2022-08-25 08:26:06|Connected client ID: 32 session: 7d8d083f01398560
+
+2022-08-25 08:34:29|removeFromAllRooms(): 32
+
+2022-08-25 08:34:29|removeFromAllRooms(): done n
+2022-08-25 08:34:47|BoostTCPServer::async_accept()
+2022-08-25 08:34:47|Connected client ID: 32 session: 80a4d40c0b75c818
+
+2022-08-25 08:35:05|removeFromAllRooms(): 32
+
+2022-08-25 08:35:05|removeFromAllRooms(): done n
+2022-08-25 08:39:33|BoostTCPServer::async_accept()
+2022-08-25 08:39:33|Connected client ID: 32 session: e13fbf19280b3806
+
+2022-08-25 08:40:17|removeFromAllRooms(): 32
+
+2022-08-25 08:40:17|removeFromAllRooms(): done n
+2022-08-25 08:40:41|BoostTCPServer::async_accept()
+2022-08-25 08:40:41|Connected client ID: 32 session: e4bae0a1e11a6271
+
+2022-08-25 08:42:36|removeFromAllRooms(): 32
+
+2022-08-25 08:42:36|removeFromAllRooms(): done n
+2022-08-25 08:43:03|BoostTCPServer::async_accept()
+2022-08-25 08:43:03|Connected client ID: 32 session: 170f8a69bf26aceb
+
+2022-08-25 08:44:38|removeFromAllRooms(): 32
+
+2022-08-25 08:44:38|removeFromAllRooms(): done n
+2022-08-25 08:45:16|BoostTCPServer::async_accept()
+2022-08-25 08:45:16|Connected client ID: 32 session: ad49550557983a77
+
+2022-08-25 08:45:59|removeFromAllRooms(): 32
+
+2022-08-25 08:45:59|removeFromAllRooms(): done n
+2022-08-25 08:49:15|BoostTCPServer::async_accept()
+2022-08-25 08:49:15|Connected client ID: 32 session: ef3cbc08043627bc
+
+2022-08-25 08:51:14|removeFromAllRooms(): 32
+
+2022-08-25 08:51:14|removeFromAllRooms(): done n
+2022-08-25 08:51:40|BoostTCPServer::async_accept()
+2022-08-25 08:51:40|Connected client ID: 32 session: 18aec742539be4ff
+
+2022-08-25 08:52:12|removeFromAllRooms(): 32
+
+2022-08-25 08:52:12|removeFromAllRooms(): done n
+2022-08-25 08:52:46|BoostTCPServer::async_accept()
+2022-08-25 08:52:46|Connected client ID: 32 session: e8015af6dfdc3491
+
+2022-08-25 08:53:29|BoostTCPServer::async_accept()
+2022-08-25 08:53:30|Connected client ID: 32 session: b92f98620540cc86
+
+2022-08-25 08:54:02|removeFromAllRooms(): 32
+
+2022-08-25 08:54:02|removeFromAllRooms(): done n
+2022-08-25 08:56:16|BoostTCPServer::async_accept()
+2022-08-25 08:56:16|Connected client ID: 32 session: f8040b9c82832f85
+
+2022-08-25 09:06:55|removeFromAllRooms(): 32
+
+2022-08-25 09:06:55|removeFromAllRooms(): done n
+2022-08-25 09:08:03|BoostTCPServer::async_accept()
+2022-08-25 09:08:03|Connected client ID: 32 session: b8fc4374294ec8b2
+
+2022-08-25 09:11:36|removeFromAllRooms(): 32
+
+2022-08-25 09:11:36|removeFromAllRooms(): done n
+2022-08-25 09:12:07|BoostTCPServer::async_accept()
+2022-08-25 09:12:07|Connected client ID: 32 session: a88e8753ad7de8d5
+
+2022-08-25 09:14:57|removeFromAllRooms(): 32
+
+2022-08-25 09:14:57|removeFromAllRooms(): done n
+2022-08-25 09:15:15|BoostTCPServer::async_accept()
+2022-08-25 09:15:15|Connected client ID: 32 session: e6861e52692cad7f
+
+2022-08-25 09:22:52|removeFromAllRooms(): 32
+
+2022-08-25 09:22:52|removeFromAllRooms(): done n
+2022-08-25 09:23:29|BoostTCPServer::async_accept()
+2022-08-25 09:23:29|Connected client ID: 32 session: 4afe49937bcf7500
+
+2022-08-25 09:45:21|BoostTCPServer::async_accept()
+2022-08-25 09:45:21|Connected client ID: 32 session: dcc27812b209db5d
+
+2022-08-25 09:49:17|removeFromAllRooms(): 32
+
+2022-08-25 09:49:17|removeFromAllRooms(): done n
+2022-08-25 09:49:44|BoostTCPServer::async_accept()
+2022-08-25 09:49:44|Connected client ID: 32 session: 0f82b0bf399e56e8
+
+2022-08-25 09:50:12|removeFromAllRooms(): 32
+
+2022-08-25 09:50:12|removeFromAllRooms(): done n
+2022-08-25 09:53:28|BoostTCPServer::async_accept()
+2022-08-25 09:53:28|Connected client ID: 32 session: c5ba71e545fefe71
+
+2022-08-25 09:53:47|removeFromAllRooms(): 32
+
+2022-08-25 09:53:47|removeFromAllRooms(): done n
+2022-08-25 09:57:15|BoostTCPServer::async_accept()
+2022-08-25 09:57:15|Connected client ID: 32 session: a1e7b73b1afccf52
+
+2022-08-25 09:58:30|removeFromAllRooms(): 32
+
+2022-08-25 09:58:30|removeFromAllRooms(): done n
+2022-08-25 09:59:44|BoostTCPServer::async_accept()
+2022-08-25 09:59:45|Connected client ID: 32 session: ee88b9008e29c68f
+
+2022-08-25 09:59:59|removeFromAllRooms(): 32
+
+2022-08-25 09:59:59|removeFromAllRooms(): done n
+2022-08-25 10:01:08|BoostTCPServer::async_accept()
+2022-08-25 10:01:08|Connected client ID: 32 session: fdb9ac32b69d516a
+
+2022-08-25 10:01:43|removeFromAllRooms(): 32
+
+2022-08-25 10:01:43|removeFromAllRooms(): done n
+2022-08-25 10:02:21|BoostTCPServer::async_accept()
+2022-08-25 10:02:22|Connected client ID: 32 session: a574455313e9238a
+
+2022-08-25 10:02:26|removeFromAllRooms(): 32
+
+2022-08-25 10:02:26|removeFromAllRooms(): done n
+2022-08-25 10:02:47|BoostTCPServer::async_accept()
+2022-08-25 10:02:47|Connected client ID: 27 session: 0af48b3e0d119609
+
+2022-08-25 10:05:20|removeFromAllRooms(): 27
+
+2022-08-25 10:05:20|removeFromAllRooms(): done n
+2022-08-25 11:12:15|BoostTCPServer::async_accept()
+2022-08-25 11:12:15|Connected client ID: 32 session: 1d32dab605fc9897
+
+2022-08-25 11:13:31|removeFromAllRooms(): 32
+
+2022-08-25 11:13:31|removeFromAllRooms(): done n
+2022-08-25 11:13:56|BoostTCPServer::async_accept()
+2022-08-25 11:13:56|Connected client ID: 32 session: 70ca4edba9cd1400
+
+2022-08-25 11:14:54|BoostTCPServer::async_accept()
+2022-08-25 11:14:54|Connected client ID: 32 session: b6b10c035dc7738d
+
+2022-08-25 11:17:07|removeFromAllRooms(): 32
+
+2022-08-25 11:17:07|removeFromAllRooms(): done n
+2022-08-25 11:17:34|BoostTCPServer::async_accept()
+2022-08-25 11:17:34|Connected client ID: 32 session: 4277356fcfb3a9d5
+
+2022-08-25 11:18:23|removeFromAllRooms(): 32
+
+2022-08-25 11:18:23|removeFromAllRooms(): done n
+2022-08-25 11:18:47|BoostTCPServer::async_accept()
+2022-08-25 11:18:47|Connected client ID: 32 session: 673497c06296016c
+
+2022-08-25 11:19:33|removeFromAllRooms(): 32
+
+2022-08-25 11:19:33|removeFromAllRooms(): done n
+2022-08-25 11:20:02|BoostTCPServer::async_accept()
+2022-08-25 11:20:02|Connected client ID: 32 session: 50d5402535f6243b
+
+2022-08-25 11:21:07|removeFromAllRooms(): 32
+
+2022-08-25 11:21:07|removeFromAllRooms(): done n
+2022-08-25 11:21:42|BoostTCPServer::async_accept()
+2022-08-25 11:21:42|Connected client ID: 32 session: a40c2b927eab8a0a
+
+2022-08-25 11:22:26|removeFromAllRooms(): 32
+
+2022-08-25 11:22:26|removeFromAllRooms(): done n
+2022-08-25 11:22:54|BoostTCPServer::async_accept()
+2022-08-25 11:22:54|Connected client ID: 32 session: a4e2d2448f5ceacc
+
+2022-08-25 11:23:09|removeFromAllRooms(): 32
+
+2022-08-25 11:23:09|removeFromAllRooms(): done n
+2022-08-25 11:23:37|BoostTCPServer::async_accept()
+2022-08-25 11:23:37|Connected client ID: 32 session: f4157d68aed028bc
+
+2022-08-25 11:24:39|removeFromAllRooms(): 32
+
+2022-08-25 11:24:39|removeFromAllRooms(): done n
+2022-08-25 11:25:04|BoostTCPServer::async_accept()
+2022-08-25 11:25:04|Connected client ID: 32 session: aef3730c407d35c9
+
+2022-08-25 11:26:16|removeFromAllRooms(): 32
+
+2022-08-25 11:26:16|removeFromAllRooms(): done n
+2022-08-25 11:29:14|BoostTCPServer::async_accept()
+2022-08-25 11:29:14|Connected client ID: 32 session: 844582a890020cc1
+
+2022-08-25 11:34:21|removeFromAllRooms(): 32
+
+2022-08-25 11:34:21|removeFromAllRooms(): done n
+2022-08-25 11:35:01|BoostTCPServer::async_accept()
+2022-08-25 11:35:01|Connected client ID: 32 session: 1488b54dc5cbe022
+
+2022-08-25 11:39:11|removeFromAllRooms(): 32
+
+2022-08-25 11:39:11|removeFromAllRooms(): done n
+2022-08-25 11:39:59|BoostTCPServer::async_accept()
+2022-08-25 11:39:59|Connected client ID: 32 session: 74e31047c1bd19af
+
+2022-08-25 11:41:21|removeFromAllRooms(): 32
+
+2022-08-25 11:41:21|removeFromAllRooms(): done n
+2022-08-25 11:41:49|BoostTCPServer::async_accept()
+2022-08-25 11:41:49|Connected client ID: 32 session: 6b5391faedc78065
+
+2022-08-25 11:42:36|BoostTCPServer::async_accept()
+2022-08-25 11:42:36|Connected client ID: 32 session: 4861f5238b439dbd
+
+2022-08-25 11:44:12|removeFromAllRooms(): 32
+
+2022-08-25 11:44:12|removeFromAllRooms(): done n
+2022-08-25 11:44:56|BoostTCPServer::async_accept()
+2022-08-25 11:44:56|Connected client ID: 32 session: 1f042060c37bfcf8
+
+2022-08-25 11:46:45|removeFromAllRooms(): 32
+
+2022-08-25 11:46:45|removeFromAllRooms(): done n
+2022-08-25 11:47:31|BoostTCPServer::async_accept()
+2022-08-25 11:47:31|Connected client ID: 32 session: a786e566105b1b11
+
+2022-08-25 11:47:55|removeFromAllRooms(): 32
+
+2022-08-25 11:47:55|removeFromAllRooms(): done n
+2022-08-25 11:50:18|BoostTCPServer::async_accept()
+2022-08-25 11:50:18|Connected client ID: 32 session: 2fbebf35ce47b5ad
+
+2022-08-25 11:51:33|removeFromAllRooms(): 32
+
+2022-08-25 11:51:33|removeFromAllRooms(): done n
+2022-08-25 11:52:56|BoostTCPServer::async_accept()
+2022-08-25 11:52:56|Connected client ID: 32 session: 09febec0362c4ca2
+
+2022-08-25 11:56:03|BoostTCPServer::async_accept()
+2022-08-25 11:56:03|Connected client ID: 32 session: c030846875a82145
+
+2022-08-25 11:56:46|BoostTCPServer::async_accept()
+2022-08-25 11:56:46|Connected client ID: 32 session: 774f294f7818b867
+
+2022-08-25 11:57:07|removeFromAllRooms(): 32
+
+2022-08-25 11:57:07|removeFromAllRooms(): done n
+2022-08-25 11:57:39|BoostTCPServer::async_accept()
+2022-08-25 11:57:39|Connected client ID: 32 session: 728d349fa6f2e8fb
+
+2022-08-25 12:07:38|BoostTCPServer::async_accept()
+2022-08-25 12:07:38|Connected client ID: 32 session: 517f92c7a9a3b433
+
+2022-08-25 12:11:05|removeFromAllRooms(): 32
+
+2022-08-25 12:11:05|removeFromAllRooms(): done n
+2022-08-25 12:18:56|BoostTCPServer::async_accept()
+2022-08-25 12:18:56|Connected client ID: 32 session: 3e6065d23faf87a0
+
+2022-08-25 12:20:39|removeFromAllRooms(): 32
+
+2022-08-25 12:20:39|removeFromAllRooms(): done n
+2022-08-25 12:21:15|BoostTCPServer::async_accept()
+2022-08-25 12:21:15|Connected client ID: 32 session: 33d25205e6891a0b
+
+2022-08-25 12:23:01|removeFromAllRooms(): 32
+
+2022-08-25 12:23:01|removeFromAllRooms(): done n
+2022-08-25 12:23:39|BoostTCPServer::async_accept()
+2022-08-25 12:23:39|Connected client ID: 32 session: 7657eb0dee23acd3
+
+2022-08-25 13:00:45|removeFromAllRooms(): 32
+
+2022-08-25 13:00:45|removeFromAllRooms(): done n
+2022-08-29 06:12:32|BoostTCPServer::async_accept()
+2022-08-29 06:12:32|Connected client ID: 38 session: 8e124f0fcc36f680
+
+2022-08-29 07:38:34|BoostTCPServer::async_accept()
+2022-08-29 07:38:34|Connected client ID: 38 session: a6d52f80378b7e23
+
+2022-08-29 07:40:18|BoostTCPServer::async_accept()
+2022-08-29 07:40:18|Connected client ID: 15 session: fcde8ad719bd1fa9
+
+2022-08-29 07:41:37|removeFromAllRooms(): 15
+
+2022-08-29 07:41:37|removeFromAllRooms(): done n
+2022-08-29 07:42:34|removeFromAllRooms(): 38
+
+2022-08-29 07:42:34|removeFromAllRooms(): done n
+2022-08-29 12:30:11|BoostTCPServer::async_accept()
+2022-08-29 12:30:11|Connected client ID: 22 session: 930545db23a5afbc
+
+2022-08-29 12:43:33|removeFromAllRooms(): 22
+
+2022-08-29 12:43:33|removeFromAllRooms(): done n
+2022-08-29 13:28:10|BoostTCPServer::async_accept()
+2022-08-29 13:28:10|Connected client ID: 15 session: a684bc53175d7e22
+
+2022-08-29 13:28:45|removeFromAllRooms(): 15
+
+2022-08-29 13:28:45|removeFromAllRooms(): done n
+2022-08-29 13:32:18|BoostTCPServer::async_accept()
+2022-08-29 13:32:18|Connected client ID: 15 session: bf05d7848ed398c4
+
+2022-08-29 13:33:18|removeFromAllRooms(): 15
+
+2022-08-29 13:33:18|removeFromAllRooms(): done n
+2022-08-29 13:37:57|BoostTCPServer::async_accept()
+2022-08-29 13:37:57|Connected client ID: 15 session: bf2cac7fdecb2016
+
+2022-08-29 13:38:04|removeFromAllRooms(): 15
+
+2022-08-29 13:38:04|removeFromAllRooms(): done n
+2022-08-29 13:41:13|BoostTCPServer::async_accept()
+2022-08-29 13:41:13|Connected client ID: 15 session: c460f7facd055400
+
+2022-08-29 13:42:03|removeFromAllRooms(): 15
+
+2022-08-29 13:42:03|removeFromAllRooms(): done n
+2022-08-29 13:43:45|BoostTCPServer::async_accept()
+2022-08-29 13:43:45|Connected client ID: 15 session: 9170e0fc36825f08
+
+2022-08-29 13:47:00|removeFromAllRooms(): 15
+
+2022-08-29 13:47:00|removeFromAllRooms(): done n
+2022-08-29 13:59:21|BoostTCPServer::async_accept()
+2022-08-29 13:59:21|Connected client ID: 15 session: b288ad94416b0817
+
+2022-08-29 14:00:21|removeFromAllRooms(): 15
+
+2022-08-29 14:00:21|removeFromAllRooms(): done n
+2022-08-29 14:20:39|BoostTCPServer::async_accept()
+2022-08-29 14:20:39|Connected client ID: 22 session: 219858cb6d818298
+
+2022-08-29 14:23:57|removeFromAllRooms(): 22
+
+2022-08-29 14:23:57|removeFromAllRooms(): done n
+2022-08-29 14:23:59|BoostTCPServer::async_accept()
+2022-08-29 14:23:59|Connected client ID: 15 session: 42ff3aaa2ee4edf3
+
+2022-08-29 14:26:04|removeFromAllRooms(): 15
+
+2022-08-29 14:26:04|removeFromAllRooms(): done n
+2022-08-29 14:34:31|BoostTCPServer::async_accept()
+2022-08-29 14:34:31|Connected client ID: 22 session: 88dbf5d121921f35
+
+2022-08-29 14:34:52|removeFromAllRooms(): 22
+
+2022-08-29 14:34:52|removeFromAllRooms(): done n
+2022-08-29 14:38:36|BoostTCPServer::async_accept()
+2022-08-29 14:38:36|Connected client ID: 22 session: eaed056c0def8160
+
+2022-08-29 14:41:53|removeFromAllRooms(): 22
+
+2022-08-29 14:41:53|removeFromAllRooms(): done n
+2022-08-29 14:57:15|BoostTCPServer::async_accept()
+2022-08-29 14:57:15|Connected client ID: 22 session: 54cca1748923c78f
+
+2022-08-29 14:59:43|removeFromAllRooms(): 22
+
+2022-08-29 14:59:43|removeFromAllRooms(): done n
+2022-08-29 15:00:55|BoostTCPServer::async_accept()
+2022-08-29 15:00:55|Connected client ID: 32 session: 3a2b2f3595dd0612
+
+2022-08-29 15:01:28|removeFromAllRooms(): 32
+
+2022-08-29 15:01:28|removeFromAllRooms(): done n
+2022-08-30 06:18:18|BoostTCPServer::async_accept()
+2022-08-30 06:18:18|Connected client ID: 38 session: 8531ae467caf0ebd
+
+2022-08-30 06:18:45|removeFromAllRooms(): 38
+
+2022-08-30 06:18:45|removeFromAllRooms(): done n
+2022-08-30 06:19:19|BoostTCPServer::async_accept()
+2022-08-30 06:19:19|Connected client ID: 38 session: b6927127390232d6
+
+2022-08-30 07:34:55|removeFromAllRooms(): 38
+
+2022-08-30 07:34:55|removeFromAllRooms(): done n
+2022-08-30 08:06:04|BoostTCPServer::async_accept()
+2022-08-30 08:06:04|Connected client ID: 15 session: 67485f6814781095
+
+2022-08-30 08:06:28|removeFromAllRooms(): 15
+
+2022-08-30 08:06:28|removeFromAllRooms(): done n
+2022-08-30 08:11:25|BoostTCPServer::async_accept()
+2022-08-30 08:11:25|Connected client ID: 15 session: 185071794d4d8301
+
+2022-08-30 08:12:04|removeFromAllRooms(): 15
+
+2022-08-30 08:12:04|removeFromAllRooms(): done n
+2022-08-30 08:13:07|BoostTCPServer::async_accept()
+2022-08-30 08:13:07|Connected client ID: 15 session: 907fe9936b950f50
+
+2022-08-30 08:14:10|removeFromAllRooms(): 15
+
+2022-08-30 08:14:10|removeFromAllRooms(): done n
+2022-08-30 08:39:14|BoostTCPServer::async_accept()
+2022-08-30 08:39:14|Connected client ID: 32 session: c300e9485a3d78ec
+
+2022-08-30 08:39:25|Command received: broadcast
+
+2022-08-30 08:39:35|Command received: broadcast
+
+2022-08-30 08:39:57|Command received: broadcast
+
+2022-08-30 08:58:07|removeFromAllRooms(): 32
+
+2022-08-30 08:58:07|removeFromAllRooms(): done n
+2022-08-30 09:35:39|BoostTCPServer::async_accept()
+2022-08-30 09:35:39|Connected client ID: 15 session: 8cf2516c6be1f7c6
+
+2022-08-30 09:41:59|removeFromAllRooms(): 15
+
+2022-08-30 09:41:59|removeFromAllRooms(): done n
+2022-08-30 11:36:02|BoostTCPServer::async_accept()
+2022-08-30 11:36:02|BoostTCPServer::async_accept()
+2022-08-30 11:36:02|BoostTCPServer::async_accept()
+2022-08-30 12:37:00|BoostTCPServer::async_accept()
+2022-08-30 12:37:00|Connected client ID: 38 session: 1d24fe728c1416de
+
+2022-08-30 12:37:22|removeFromAllRooms(): 38
+
+2022-08-30 12:37:22|removeFromAllRooms(): done n
+2022-08-30 12:38:07|BoostTCPServer::async_accept()
+2022-08-30 12:38:07|Connected client ID: 38 session: 525482a42164250c
+
+2022-08-30 14:13:54|BoostTCPServer::async_accept()
+2022-08-30 14:13:54|Connected client ID: 32 session: 5b6f0569bb80b0f1
+
+2022-08-30 14:18:30|removeFromAllRooms(): 32
+
+2022-08-30 14:18:30|removeFromAllRooms(): done n
+2022-08-30 14:18:50|BoostTCPServer::async_accept()
+2022-08-30 14:18:50|Connected client ID: 32 session: 97488c369c0d8391
+
+2022-08-30 14:24:05|removeFromAllRooms(): 32
+
+2022-08-30 14:24:05|removeFromAllRooms(): done n
+2022-08-30 14:26:56|BoostTCPServer::async_accept()
+2022-08-30 14:26:56|Connected client ID: 32 session: 26afa98049e0516c
+
+2022-08-30 14:35:35|removeFromAllRooms(): 32
+
+2022-08-30 14:35:35|removeFromAllRooms(): done n
+2022-08-30 14:37:11|BoostTCPServer::async_accept()
+2022-08-30 14:37:11|Connected client ID: 32 session: debf56b7e567ce6a
+
+2022-08-30 14:46:01|removeFromAllRooms(): 32
+
+2022-08-30 14:46:01|removeFromAllRooms(): done n
+2022-08-30 14:49:50|removeFromAllRooms(): 38
+
+2022-08-30 14:49:50|removeFromAllRooms(): done n
+2022-08-30 14:51:06|BoostTCPServer::async_accept()
+2022-08-30 14:51:06|Connected client ID: 38 session: 3e4324790e8fb771
+
+2022-08-30 14:53:00|BoostTCPServer::async_accept()
+2022-08-30 14:53:00|Connected client ID: 38 session: d91b995cfa43e56a
+
+2022-08-30 15:00:02|removeFromAllRooms(): 38
+
+2022-08-30 15:00:02|removeFromAllRooms(): done n
+2022-08-31 06:29:55|BoostTCPServer::async_accept()
+2022-08-31 06:29:55|Connected client ID: 38 session: 70505a8071445f5f
+
+2022-08-31 06:37:41|removeFromAllRooms(): 38
+
+2022-08-31 06:37:41|removeFromAllRooms(): done n
+2022-08-31 06:43:08|BoostTCPServer::async_accept()
+2022-08-31 06:43:08|Connected client ID: 38 session: cc0ce4963bc3cacd
+
+2022-08-31 06:43:37|removeFromAllRooms(): 38
+
+2022-08-31 06:43:37|removeFromAllRooms(): done n
+2022-08-31 06:44:10|BoostTCPServer::async_accept()
+2022-08-31 06:44:10|Connected client ID: 38 session: e458197b99c0c924
+
+2022-08-31 06:48:54|removeFromAllRooms(): 38
+
+2022-08-31 06:48:54|removeFromAllRooms(): done n
+2022-08-31 06:49:24|BoostTCPServer::async_accept()
+2022-08-31 06:49:24|Connected client ID: 38 session: 2b8899f7eb2e4736
+
+2022-08-31 06:51:16|removeFromAllRooms(): 38
+
+2022-08-31 06:51:16|removeFromAllRooms(): done n
+2022-08-31 06:51:53|BoostTCPServer::async_accept()
+2022-08-31 06:51:53|Connected client ID: 38 session: ba30af719f127e6b
+
+2022-08-31 07:04:24|BoostTCPServer::async_accept()
+2022-08-31 07:04:24|Connected client ID: 38 session: 0ad98ca70138e390
+
+2022-08-31 07:06:52|removeFromAllRooms(): 38
+
+2022-08-31 07:06:52|removeFromAllRooms(): done n
+2022-08-31 07:07:21|BoostTCPServer::async_accept()
+2022-08-31 07:07:21|Connected client ID: 38 session: 6c41d0ee3c958f33
+
+2022-08-31 07:09:57|removeFromAllRooms(): 38
+
+2022-08-31 07:09:57|removeFromAllRooms(): done n
+2022-08-31 07:34:23|BoostTCPServer::async_accept()
+2022-08-31 07:34:23|Connected client ID: 38 session: 652b2be84dda458d
+
+2022-08-31 07:36:33|removeFromAllRooms(): 38
+
+2022-08-31 07:36:33|removeFromAllRooms(): done n
+2022-08-31 07:48:58|BoostTCPServer::async_accept()
+2022-08-31 07:48:58|Connected client ID: 38 session: fbefd41b261466d9
+
+2022-08-31 08:05:28|removeFromAllRooms(): 38
+
+2022-08-31 08:05:28|removeFromAllRooms(): done n
+2022-08-31 08:06:02|BoostTCPServer::async_accept()
+2022-08-31 08:06:02|Connected client ID: 38 session: 528d952a2ea03ff1
+
+2022-08-31 08:08:28|removeFromAllRooms(): 38
+
+2022-08-31 08:08:28|removeFromAllRooms(): done n
+2022-08-31 08:09:05|BoostTCPServer::async_accept()
+2022-08-31 08:09:05|Connected client ID: 38 session: 0ba0735697a3048e
+
+2022-08-31 08:13:47|BoostTCPServer::async_accept()
+2022-08-31 08:13:47|Connected client ID: 38 session: b3d3c97a3ba7de31
+
+2022-08-31 08:19:03|removeFromAllRooms(): 38
+
+2022-08-31 08:19:03|removeFromAllRooms(): done n
+2022-08-31 08:21:49|BoostTCPServer::async_accept()
+2022-08-31 08:21:49|Connected client ID: 38 session: 5ea3d00e8a8d4363
+
+2022-08-31 08:24:53|removeFromAllRooms(): 38
+
+2022-08-31 08:24:53|removeFromAllRooms(): done n
+2022-08-31 08:25:22|BoostTCPServer::async_accept()
+2022-08-31 08:25:22|Connected client ID: 38 session: 04f42054f1454af7
+
+2022-08-31 08:26:14|BoostTCPServer::async_accept()
+2022-08-31 08:26:14|Connected client ID: 32 session: bca15fcbe9a74247
+
+2022-08-31 08:29:51|removeFromAllRooms(): 38
+
+2022-08-31 08:29:51|removeFromAllRooms(): done n
+2022-08-31 08:30:15|removeFromAllRooms(): 32
+
+2022-08-31 08:30:15|removeFromAllRooms(): done n
+2022-08-31 08:30:32|BoostTCPServer::async_accept()
+2022-08-31 08:30:32|Connected client ID: 38 session: a7b6420a6a100f6c
+
+2022-08-31 08:33:37|removeFromAllRooms(): 38
+
+2022-08-31 08:33:37|removeFromAllRooms(): done n
+2022-08-31 08:36:18|BoostTCPServer::async_accept()
+2022-08-31 08:36:18|Connected client ID: 38 session: 03ebd161e3a3e091
+
+2022-08-31 08:37:36|removeFromAllRooms(): 38
+
+2022-08-31 08:37:36|removeFromAllRooms(): done n
+2022-08-31 08:38:20|BoostTCPServer::async_accept()
+2022-08-31 08:38:20|Connected client ID: 38 session: cb9d3751ecbcdbc1
+
+2022-08-31 08:58:16|removeFromAllRooms(): 38
+
+2022-08-31 08:58:16|removeFromAllRooms(): done n
+2022-08-31 09:11:07|BoostTCPServer::async_accept()
+2022-08-31 09:11:07|Connected client ID: 38 session: 81305c41bdf77d7a
+
+2022-08-31 09:12:02|removeFromAllRooms(): 38
+
+2022-08-31 09:12:02|removeFromAllRooms(): done n
+2022-08-31 09:12:42|BoostTCPServer::async_accept()
+2022-08-31 09:12:42|Connected client ID: 38 session: 1940487c3854d64f
+
+2022-08-31 09:14:47|removeFromAllRooms(): 38
+
+2022-08-31 09:14:47|removeFromAllRooms(): done n
+2022-08-31 09:15:43|BoostTCPServer::async_accept()
+2022-08-31 09:15:43|Connected client ID: 38 session: 9f007c4f2cfebc3d
+
+2022-08-31 09:21:55|removeFromAllRooms(): 38
+
+2022-08-31 09:21:55|removeFromAllRooms(): done n
+2022-08-31 09:22:47|BoostTCPServer::async_accept()
+2022-08-31 09:22:47|Connected client ID: 38 session: e4c9f4c53440e17d
+
+2022-08-31 09:43:14|removeFromAllRooms(): 38
+
+2022-08-31 09:43:14|removeFromAllRooms(): done n
+2022-08-31 09:43:45|BoostTCPServer::async_accept()
+2022-08-31 09:43:45|Connected client ID: 38 session: 33765c095ea90c7b
+
+2022-08-31 09:47:53|removeFromAllRooms(): 38
+
+2022-08-31 09:47:53|removeFromAllRooms(): done n
+2022-08-31 09:48:25|BoostTCPServer::async_accept()
+2022-08-31 09:48:25|Connected client ID: 38 session: e7fe0cf8c39ab83d
+
+2022-08-31 09:50:03|removeFromAllRooms(): 38
+
+2022-08-31 09:50:03|removeFromAllRooms(): done n
+2022-08-31 09:50:39|BoostTCPServer::async_accept()
+2022-08-31 09:50:39|Connected client ID: 38 session: 30f69a10043a435a
+
+2022-08-31 09:58:41|removeFromAllRooms(): 38
+
+2022-08-31 09:58:41|removeFromAllRooms(): done n
+2022-08-31 11:43:46|BoostTCPServer::async_accept()
+2022-08-31 11:43:46|Connected client ID: 38 session: 8193f938c09ebb77
+
+2022-08-31 11:54:16|removeFromAllRooms(): 38
+
+2022-08-31 11:54:16|removeFromAllRooms(): done n
+2022-08-31 12:16:34|BoostTCPServer::async_accept()
+2022-08-31 12:16:34|Connected client ID: 38 session: fc9d29939dc6b6e2
+
+2022-08-31 12:25:26|removeFromAllRooms(): 38
+
+2022-08-31 12:25:26|removeFromAllRooms(): done n
+2022-09-01 09:16:45|BoostTCPServer::async_accept()
+2022-09-01 09:16:45|Connected client ID: 32 session: fe4e8f352eb115cb
+
+2022-09-01 09:17:41|removeFromAllRooms(): 32
+
+2022-09-01 09:17:41|removeFromAllRooms(): done n
+2022-09-01 09:20:11|BoostTCPServer::async_accept()
+2022-09-01 09:20:11|Connected client ID: 32 session: 9bd521ead9fbe9c8
+
+2022-09-01 09:25:58|Command received: broadcast
+
+2022-09-01 09:26:01|Command received: broadcast
+
+2022-09-01 09:26:05|Command received: broadcast
+
+2022-09-01 09:26:57|removeFromAllRooms(): 32
+
+2022-09-01 09:26:57|removeFromAllRooms(): done n
+2022-09-01 09:27:48|BoostTCPServer::async_accept()
+2022-09-01 09:27:48|Connected client ID: 32 session: b281e62407187b36
+
+2022-09-01 09:27:55|BoostTCPServer::async_accept()
+2022-09-01 09:27:55|Connected client ID: 27 session: 4662677b39ce2ed7
+
+2022-09-01 09:27:55|Command received: broadcast
+
+2022-09-01 09:28:05|Command received: broadcast
+
+2022-09-01 09:29:25|BoostTCPServer::async_accept()
+2022-09-01 09:29:25|Connected client ID: 38 session: 17251d07fd537dd9
+
+2022-09-01 09:29:31|Command received: broadcast
+
+2022-09-01 09:29:33|Command received: broadcast
+
+2022-09-01 09:29:37|Command received: broadcast
+
+2022-09-01 09:29:41|Command received: broadcast
+
+2022-09-01 09:29:43|Command received: broadcast
+
+2022-09-01 09:29:45|Command received: broadcast
+
+2022-09-01 09:29:54|Command received: broadcast
+
+2022-09-01 09:29:59|Command received: broadcast
+
+2022-09-01 09:30:05|Command received: broadcast
+
+2022-09-01 09:30:19|Command received: broadcast
+
+2022-09-01 09:30:23|Command received: broadcast
+
+2022-09-01 09:30:37|Command received: broadcast
+
+2022-09-01 09:30:43|Command received: broadcast
+
+2022-09-01 09:33:52|removeFromAllRooms(): 32
+
+2022-09-01 09:33:52|removeFromAllRooms(): done n
+2022-09-01 09:33:55|removeFromAllRooms(): 38
+
+2022-09-01 09:33:55|removeFromAllRooms(): done n
+2022-09-01 09:34:27|BoostTCPServer::async_accept()
+2022-09-01 09:34:27|Connected client ID: 38 session: ca8c7fd2dca50139
+
+2022-09-01 09:34:33|Command received: broadcast
+
+2022-09-01 09:34:36|Command received: broadcast
+
+2022-09-01 09:34:40|Command received: broadcast
+
+2022-09-01 09:34:48|Command received: broadcast
+
+2022-09-01 09:37:14|removeFromAllRooms(): 27
+
+2022-09-01 09:37:14|removeFromAllRooms(): done n
+2022-09-01 09:39:17|BoostTCPServer::async_accept()
+2022-09-01 09:39:17|Connected client ID: 32 session: 734129989ab2a365
+
+2022-09-01 09:39:22|Command received: broadcast
+
+2022-09-01 09:39:28|Command received: broadcast
+
+2022-09-01 09:41:39|BoostTCPServer::async_accept()
+2022-09-01 09:41:39|Connected client ID: 32 session: 99b8abd760134b3b
+
+2022-09-01 09:41:46|Command received: broadcast
+
+2022-09-01 09:41:56|Command received: broadcast
+
+2022-09-01 09:42:03|Command received: broadcast
+
+2022-09-01 09:42:08|Command received: broadcast
+
+2022-09-01 09:42:10|Command received: broadcast
+
+2022-09-01 09:42:12|Command received: broadcast
+
+2022-09-01 09:42:14|Command received: broadcast
+
+2022-09-01 09:47:50|removeFromAllRooms(): 32
+
+2022-09-01 09:47:50|removeFromAllRooms(): done n
+2022-09-01 09:48:38|BoostTCPServer::async_accept()
+2022-09-01 09:48:38|Connected client ID: 32 session: 205cbaa19a57da7e
+
+2022-09-01 09:48:47|Command received: broadcast
+
+2022-09-01 09:48:53|Command received: broadcast
+
+2022-09-01 09:48:58|Command received: broadcast
+
+2022-09-01 10:03:22|removeFromAllRooms(): 38
+
+2022-09-01 10:03:22|removeFromAllRooms(): done n
+2022-09-01 10:56:19|removeFromAllRooms(): 32
+
+2022-09-01 10:56:19|removeFromAllRooms(): done n
+2022-09-01 11:10:21|BoostTCPServer::async_accept()
+2022-09-01 11:10:21|Connected client ID: 32 session: cdeecf55380b637c
+
+2022-09-01 11:10:58|Command received: broadcast
+
+2022-09-01 11:11:05|Command received: broadcast
+
+2022-09-01 11:11:09|Command received: broadcast
+
+2022-09-01 11:11:18|Command received: broadcast
+
+2022-09-01 11:11:25|removeFromAllRooms(): 32
+
+2022-09-01 11:11:25|removeFromAllRooms(): done n
+2022-09-01 11:13:07|BoostTCPServer::async_accept()
+2022-09-01 11:13:07|Connected client ID: 32 session: bc43ac2d2c5d2c91
+
+2022-09-01 11:13:30|Command received: broadcast
+
+2022-09-01 11:13:39|Command received: broadcast
+
+2022-09-01 11:13:59|removeFromAllRooms(): 32
+
+2022-09-01 11:13:59|removeFromAllRooms(): done n
+2022-09-01 11:17:04|BoostTCPServer::async_accept()
+2022-09-01 11:17:04|Connected client ID: 32 session: f40e2edc35baca9e
+
+2022-09-01 11:17:14|Command received: broadcast
+
+2022-09-01 11:17:26|Command received: broadcast
+
+2022-09-01 11:17:56|removeFromAllRooms(): 32
+
+2022-09-01 11:17:56|removeFromAllRooms(): done n
+2022-09-01 11:19:25|BoostTCPServer::async_accept()
+2022-09-01 11:19:25|Connected client ID: 32 session: 71a71722445f4453
+
+2022-09-01 11:19:33|Command received: broadcast
+
+2022-09-01 11:19:40|Command received: broadcast
+
+2022-09-01 11:19:46|Command received: broadcast
+
+2022-09-01 11:19:54|Command received: broadcast
+
+2022-09-01 11:21:49|BoostTCPServer::async_accept()
+2022-09-01 11:21:49|Connected client ID: 27 session: d270e7d9d4ca1403
+
+2022-09-01 11:23:18|BoostTCPServer::async_accept()
+2022-09-01 11:23:18|Connected client ID: 38 session: 9999579dff45a3e8
+
+2022-09-01 11:23:33|Command received: broadcast
+
+2022-09-01 11:23:41|Command received: broadcast
+
+2022-09-01 11:23:45|Command received: broadcast
+
+2022-09-01 11:23:52|Command received: broadcast
+
+2022-09-01 11:24:07|removeFromAllRooms(): 32
+
+2022-09-01 11:24:07|removeFromAllRooms(): done n
+2022-09-01 11:24:45|removeFromAllRooms(): 27
+
+2022-09-01 11:24:45|removeFromAllRooms(): done n
+2022-09-01 11:25:16|Command received: broadcast
+
+2022-09-01 11:25:17|BoostTCPServer::async_accept()
+2022-09-01 11:25:17|Connected client ID: 32 session: 1f2b7a41936da8ac
+
+2022-09-01 11:25:26|Command received: broadcast
+
+2022-09-01 11:25:35|removeFromAllRooms(): 32
+
+2022-09-01 11:25:35|removeFromAllRooms(): done n
+2022-09-01 11:25:39|Command received: broadcast
+
+2022-09-01 11:25:41|Command received: broadcast
+
+2022-09-01 11:25:43|Command received: broadcast
+
+2022-09-01 11:25:45|Command received: broadcast
+
+2022-09-01 11:25:47|Command received: broadcast
+
+2022-09-01 11:25:49|Command received: broadcast
+
+2022-09-01 11:25:52|Command received: broadcast
+
+2022-09-01 11:25:54|Command received: broadcast
+
+2022-09-01 11:25:58|Command received: broadcast
+
+2022-09-01 11:26:21|Command received: broadcast
+
+2022-09-01 11:26:27|Command received: broadcast
+
+2022-09-01 11:26:30|Command received: broadcast
+
+2022-09-01 11:26:32|Command received: broadcast
+
+2022-09-01 11:26:34|Command received: broadcast
+
+2022-09-01 11:26:36|Command received: broadcast
+
+2022-09-01 11:26:38|Command received: broadcast
+
+2022-09-01 11:26:39|Command received: broadcast
+
+2022-09-01 11:26:41|Command received: broadcast
+
+2022-09-01 11:26:43|Command received: broadcast
+
+2022-09-01 11:26:44|Command received: broadcast
+
+2022-09-01 11:26:46|Command received: broadcast
+
+2022-09-01 11:26:48|Command received: broadcast
+
+2022-09-01 11:27:08|BoostTCPServer::async_accept()
+2022-09-01 11:27:08|Connected client ID: 32 session: d2966b25b6e70276
+
+2022-09-01 11:27:14|Command received: broadcast
+
+2022-09-01 11:27:25|Command received: broadcast
+
+2022-09-01 11:27:27|removeFromAllRooms(): 38
+
+2022-09-01 11:27:27|removeFromAllRooms(): done n
+2022-09-01 11:27:29|removeFromAllRooms(): 32
+
+2022-09-01 11:27:29|removeFromAllRooms(): done n
+2022-09-01 11:38:45|BoostTCPServer::async_accept()
+2022-09-01 11:38:45|Connected client ID: 32 session: 71e7f98abf43edb2
+
+2022-09-01 11:38:53|Command received: broadcast
+
+2022-09-01 11:39:02|Command received: broadcast
+
+2022-09-01 11:42:51|BoostTCPServer::async_accept()
+2022-09-01 11:42:51|Connected client ID: 38 session: 3cd4b06ea99b4b99
+
+2022-09-01 11:43:21|removeFromAllRooms(): 38
+
+2022-09-01 11:43:21|removeFromAllRooms(): done n
+2022-09-01 11:43:48|BoostTCPServer::async_accept()
+2022-09-01 11:43:48|Connected client ID: 38 session: 72669a2ca3b74c54
+
+2022-09-01 11:44:00|removeFromAllRooms(): 38
+
+2022-09-01 11:44:00|removeFromAllRooms(): done n
+2022-09-01 11:44:29|BoostTCPServer::async_accept()
+2022-09-01 11:44:29|Connected client ID: 38 session: b70015ee5abc4156
+
+2022-09-01 11:44:42|removeFromAllRooms(): 32
+
+2022-09-01 11:44:42|removeFromAllRooms(): done n
+2022-09-01 11:46:10|BoostTCPServer::async_accept()
+2022-09-01 11:46:10|Connected client ID: 32 session: 4d9cc70aa17a7d4a
+
+2022-09-01 11:46:14|Command received: broadcast
+
+2022-09-01 11:46:18|Command received: broadcast
+
+2022-09-01 11:46:58|removeFromAllRooms(): 32
+
+2022-09-01 11:46:58|removeFromAllRooms(): done n
+2022-09-01 11:47:36|BoostTCPServer::async_accept()
+2022-09-01 11:47:36|Connected client ID: 32 session: e61ae7f02c143cca
+
+2022-09-01 11:48:28|Command received: broadcast
+
+2022-09-01 11:49:05|removeFromAllRooms(): 32
+
+2022-09-01 11:49:05|removeFromAllRooms(): done n
+2022-09-01 11:49:46|BoostTCPServer::async_accept()
+2022-09-01 11:49:46|Connected client ID: 32 session: 58eb98a1ac320a72
+
+2022-09-01 11:49:50|Command received: broadcast
+
+2022-09-01 12:08:55|removeFromAllRooms(): 32
+
+2022-09-01 12:08:55|removeFromAllRooms(): done n
+2022-09-01 12:22:21|BoostTCPServer::async_accept()
+2022-09-01 12:22:21|Connected client ID: 38 session: 2adc890146d0819f
+
+2022-09-01 13:02:31|BoostTCPServer::async_accept()
+2022-09-01 13:02:31|Connected client ID: 38 session: f17ef9bf0f706d73
+
+2022-09-01 13:03:23|removeFromAllRooms(): 38
+
+2022-09-01 13:03:23|removeFromAllRooms(): done n
+2022-09-01 13:03:47|BoostTCPServer::async_accept()
+2022-09-01 13:03:47|Connected client ID: 38 session: 1f681d89b79b7af5
+
+2022-09-01 13:32:36|removeFromAllRooms(): 38
+
+2022-09-01 13:32:36|removeFromAllRooms(): done n
+2022-09-01 13:55:55|BoostTCPServer::async_accept()
+2022-09-01 13:55:55|Connected client ID: 38 session: 624c765c50e17842
+
+2022-09-01 13:59:37|removeFromAllRooms(): 38
+
+2022-09-01 13:59:37|removeFromAllRooms(): done n
+2022-09-01 14:00:21|BoostTCPServer::async_accept()
+2022-09-01 14:00:21|Connected client ID: 38 session: fb534dcde338a051
+
+2022-09-01 14:07:25|removeFromAllRooms(): 38
+
+2022-09-01 14:07:25|removeFromAllRooms(): done n
+2022-09-01 14:09:20|BoostTCPServer::async_accept()
+2022-09-01 14:09:20|Connected client ID: 38 session: 2a25687f7ca310c9
+
+2022-09-01 14:12:20|removeFromAllRooms(): 38
+
+2022-09-01 14:12:20|removeFromAllRooms(): done n
+2022-09-01 14:17:11|BoostTCPServer::async_accept()
+2022-09-01 14:17:11|Connected client ID: 38 session: 6af86a1a679c629e
+
+2022-09-01 14:19:00|removeFromAllRooms(): 38
+
+2022-09-01 14:19:00|removeFromAllRooms(): done n
+2022-09-01 14:19:24|BoostTCPServer::async_accept()
+2022-09-01 14:19:24|Connected client ID: 38 session: ff352cc9777e6bf3
+
+2022-09-01 14:26:08|removeFromAllRooms(): 38
+
+2022-09-01 14:26:08|removeFromAllRooms(): done n
+2022-09-01 15:29:08|BoostTCPServer::async_accept()
+2022-09-01 15:29:08|Connected client ID: 32 session: 22b5011ff2650215
+
+2022-09-01 15:30:49|removeFromAllRooms(): 32
+
+2022-09-01 15:30:49|removeFromAllRooms(): done n
+2022-09-01 15:31:11|BoostTCPServer::async_accept()
+2022-09-01 15:31:11|Connected client ID: 32 session: 9818a95e059ae644
+
+2022-09-01 15:32:37|removeFromAllRooms(): 32
+
+2022-09-01 15:32:37|removeFromAllRooms(): done n
+2022-09-01 15:33:15|BoostTCPServer::async_accept()
+2022-09-01 15:33:15|Connected client ID: 32 session: 3a50779573025167
+
+2022-09-01 15:34:34|removeFromAllRooms(): 32
+
+2022-09-01 15:34:34|removeFromAllRooms(): done n
+2022-09-01 15:35:04|BoostTCPServer::async_accept()
+2022-09-01 15:35:04|Connected client ID: 32 session: c6aa23d931389ab4
+
+2022-09-01 15:37:12|removeFromAllRooms(): 32
+
+2022-09-01 15:37:12|removeFromAllRooms(): done n
+2022-09-01 15:37:58|BoostTCPServer::async_accept()
+2022-09-01 15:37:58|Connected client ID: 32 session: 6801066a8ffd690b
+
+2022-09-01 15:39:40|removeFromAllRooms(): 32
+
+2022-09-01 15:39:40|removeFromAllRooms(): done n
+2022-09-01 15:40:08|BoostTCPServer::async_accept()
+2022-09-01 15:40:08|Connected client ID: 32 session: b7f3c5f6c456c710
+
+2022-09-01 15:40:28|removeFromAllRooms(): 32
+
+2022-09-01 15:40:28|removeFromAllRooms(): done n
+2022-09-01 15:41:11|BoostTCPServer::async_accept()
+2022-09-01 15:41:11|Connected client ID: 32 session: 4c0ba581c1c7954a
+
+2022-09-01 15:53:25|removeFromAllRooms(): 32
+
+2022-09-01 15:53:25|removeFromAllRooms(): done n
+2022-09-01 15:54:15|BoostTCPServer::async_accept()
+2022-09-01 15:54:15|Connected client ID: 32 session: cb90e8beea899daf
+
+2022-09-01 15:54:45|removeFromAllRooms(): 32
+
+2022-09-01 15:54:45|removeFromAllRooms(): done n
+2022-09-01 15:57:07|BoostTCPServer::async_accept()
+2022-09-01 15:57:07|Connected client ID: 32 session: dfa7f616c84438b9
+
+2022-09-01 15:58:32|removeFromAllRooms(): 32
+
+2022-09-01 15:58:32|removeFromAllRooms(): done n
+2022-09-01 15:59:03|BoostTCPServer::async_accept()
+2022-09-01 15:59:03|Connected client ID: 32 session: c9d6281147d6fbab
+
+2022-09-01 15:59:45|removeFromAllRooms(): 32
+
+2022-09-01 15:59:45|removeFromAllRooms(): done n
+2022-09-01 16:00:26|BoostTCPServer::async_accept()
+2022-09-01 16:00:26|Connected client ID: 32 session: 01b043e810263c53
+
+2022-09-01 16:00:55|removeFromAllRooms(): 32
+
+2022-09-01 16:00:55|removeFromAllRooms(): done n
+2022-09-02 06:28:46|BoostTCPServer::async_accept()
+2022-09-02 06:28:46|Connected client ID: 32 session: 13b0c2ea2c5ce755
+
+2022-09-02 06:35:31|removeFromAllRooms(): 32
+
+2022-09-02 06:35:31|removeFromAllRooms(): done n
+2022-09-02 08:12:45|BoostTCPServer::async_accept()
+2022-09-02 08:12:45|Connected client ID: 32 session: ba58077fb685c9d9
+
+2022-09-02 08:14:43|removeFromAllRooms(): 32
+
+2022-09-02 08:14:43|removeFromAllRooms(): done n
+2022-09-02 08:15:22|BoostTCPServer::async_accept()
+2022-09-02 08:15:22|Connected client ID: 32 session: 212398e31dc8d185
+
+2022-09-02 08:18:59|removeFromAllRooms(): 32
+
+2022-09-02 08:18:59|removeFromAllRooms(): done n
+2022-09-02 08:19:40|BoostTCPServer::async_accept()
+2022-09-02 08:19:40|Connected client ID: 32 session: 8067ede03d85aeb6
+
+2022-09-02 08:27:38|removeFromAllRooms(): 32
+
+2022-09-02 08:27:38|removeFromAllRooms(): done n
+2022-09-02 08:28:17|BoostTCPServer::async_accept()
+2022-09-02 08:28:17|Connected client ID: 32 session: a4291fe7df070a72
+
+2022-09-02 08:29:40|removeFromAllRooms(): 32
+
+2022-09-02 08:29:40|removeFromAllRooms(): done n
+2022-09-02 08:30:15|BoostTCPServer::async_accept()
+2022-09-02 08:30:15|Connected client ID: 32 session: 9e4ee7a296312c6f
+
+2022-09-02 08:31:40|removeFromAllRooms(): 32
+
+2022-09-02 08:31:40|removeFromAllRooms(): done n
+2022-09-02 08:32:33|BoostTCPServer::async_accept()
+2022-09-02 08:32:33|Connected client ID: 32 session: 95afd138115f4a4a
+
+2022-09-02 08:38:52|removeFromAllRooms(): 32
+
+2022-09-02 08:38:52|removeFromAllRooms(): done n
+2022-09-02 08:40:20|BoostTCPServer::async_accept()
+2022-09-02 08:40:20|Connected client ID: 32 session: 6bf3017e59d4f9bd
+
+2022-09-02 08:40:59|removeFromAllRooms(): 32
+
+2022-09-02 08:40:59|removeFromAllRooms(): done n
+2022-09-02 08:43:32|BoostTCPServer::async_accept()
+2022-09-02 08:43:32|Connected client ID: 32 session: 99fb17e99329e3d3
+
+2022-09-02 08:44:30|removeFromAllRooms(): 32
+
+2022-09-02 08:44:30|removeFromAllRooms(): done n
+2022-09-02 10:01:12|BoostTCPServer::async_accept()
+2022-09-02 10:01:12|Connected client ID: 32 session: 932481da49afed31
+
+2022-09-02 11:14:50|removeFromAllRooms(): 32
+
+2022-09-02 11:14:50|removeFromAllRooms(): done n
+2022-09-02 11:31:56|BoostTCPServer::async_accept()
+2022-09-02 11:31:56|Connected client ID: 32 session: e92b8c589a296ba6
+
+2022-09-02 11:35:51|removeFromAllRooms(): 32
+
+2022-09-02 11:35:51|removeFromAllRooms(): done n
+2022-09-02 11:36:44|BoostTCPServer::async_accept()
+2022-09-02 11:36:44|Connected client ID: 32 session: bf292c6e38802dfa
+
+2022-09-02 11:38:08|removeFromAllRooms(): 32
+
+2022-09-02 11:38:08|removeFromAllRooms(): done n
+2022-09-02 11:40:10|BoostTCPServer::async_accept()
+2022-09-02 11:40:10|Connected client ID: 32 session: 5d136321b54f8c10
+
+2022-09-02 12:25:36|Command received: broadcast
+
+2022-09-02 12:25:45|Command received: broadcast
+
+2022-09-02 12:25:51|Command received: broadcast
+
+2022-09-02 12:29:31|Command received: broadcast
+
+2022-09-02 12:46:57|removeFromAllRooms(): 32
+
+2022-09-02 12:46:57|removeFromAllRooms(): done n
+2022-09-02 13:32:03|BoostTCPServer::async_accept()
+2022-09-02 13:32:03|Connected client ID: 32 session: 7a82c1ba0e8ca9d3
+
+2022-09-02 13:56:15|removeFromAllRooms(): 32
+
+2022-09-02 13:56:15|removeFromAllRooms(): done n
+2022-09-02 14:37:16|BoostTCPServer::async_accept()
+2022-09-02 14:37:16|Connected client ID: 38 session: d71f377b01176bf8
+
+2022-09-05 06:57:04|removeFromAllRooms(): 38
+
+2022-09-05 06:57:04|removeFromAllRooms(): done n
+2022-09-05 06:57:33|BoostTCPServer::async_accept()
+2022-09-05 06:57:33|Connected client ID: 38 session: 2eb123e7754fc807
+
+2022-09-05 06:58:33|removeFromAllRooms(): 38
+
+2022-09-05 06:58:33|removeFromAllRooms(): done n
+2022-09-05 06:59:07|BoostTCPServer::async_accept()
+2022-09-05 06:59:07|Connected client ID: 38 session: a25f1fcb59b22983
+
+2022-09-05 07:40:51|BoostTCPServer::async_accept()
+2022-09-05 07:40:51|Connected client ID: 38 session: 992e72623f8eeec4
+
+2022-09-05 07:41:38|removeFromAllRooms(): 38
+
+2022-09-05 07:41:38|removeFromAllRooms(): done n
+2022-09-05 07:56:51|BoostTCPServer::async_accept()
+2022-09-05 07:56:51|Connected client ID: 38 session: ef133aedadc21e24
+
+2022-09-05 08:22:23|removeFromAllRooms(): 38
+
+2022-09-05 08:22:23|removeFromAllRooms(): done n
+2022-09-05 08:22:52|BoostTCPServer::async_accept()
+2022-09-05 08:22:52|Connected client ID: 38 session: b4cedc800948bf1c
+
+2022-09-05 08:27:42|removeFromAllRooms(): 38
+
+2022-09-05 08:27:42|removeFromAllRooms(): done n
+2022-09-05 08:28:06|BoostTCPServer::async_accept()
+2022-09-05 08:28:06|Connected client ID: 38 session: 70c036792633fc91
+
+2022-09-05 08:30:30|removeFromAllRooms(): 38
+
+2022-09-05 08:30:30|removeFromAllRooms(): done n
+2022-09-05 08:30:54|BoostTCPServer::async_accept()
+2022-09-05 08:30:54|Connected client ID: 38 session: d83cd20a5e6b8735
+
+2022-09-05 08:31:52|removeFromAllRooms(): 38
+
+2022-09-05 08:31:52|removeFromAllRooms(): done n
+2022-09-05 08:32:17|BoostTCPServer::async_accept()
+2022-09-05 08:32:17|Connected client ID: 38 session: 55588d4b25fdfc35
+
+2022-09-05 08:33:46|removeFromAllRooms(): 38
+
+2022-09-05 08:33:46|removeFromAllRooms(): done n
+2022-09-05 08:34:13|BoostTCPServer::async_accept()
+2022-09-05 08:34:13|Connected client ID: 38 session: 806ab021b2bcaa64
+
+2022-09-05 09:42:00|removeFromAllRooms(): 38
+
+2022-09-05 09:42:00|removeFromAllRooms(): done n
+2022-09-05 09:42:30|BoostTCPServer::async_accept()
+2022-09-05 09:42:30|Connected client ID: 38 session: 159243579c58afe7
+
+2022-09-05 09:52:58|removeFromAllRooms(): 38
+
+2022-09-05 09:52:58|removeFromAllRooms(): done n
+2022-09-05 09:53:26|BoostTCPServer::async_accept()
+2022-09-05 09:53:26|Connected client ID: 38 session: 3c7069a9f313c590
+
+2022-09-05 10:00:11|removeFromAllRooms(): 38
+
+2022-09-05 10:00:11|removeFromAllRooms(): done n
+2022-09-05 10:00:57|BoostTCPServer::async_accept()
+2022-09-05 10:00:57|Connected client ID: 38 session: 6485f882d62b4d0f
+
+2022-09-05 11:06:22|removeFromAllRooms(): 38
+
+2022-09-05 11:06:22|removeFromAllRooms(): done n
+2022-09-05 11:06:51|BoostTCPServer::async_accept()
+2022-09-05 11:06:51|Connected client ID: 38 session: 457089d181dd2bad
+
+2022-09-05 11:11:57|BoostTCPServer::async_accept()
+2022-09-05 11:11:57|Connected client ID: 32 session: 657bace02cbad1f7
+
+2022-09-05 11:34:38|BoostTCPServer::async_accept()
+2022-09-05 11:34:38|Connected client ID: 32 session: fdef2f5892933637
+
+2022-09-05 11:39:28|removeFromAllRooms(): 32
+
+2022-09-05 11:39:28|removeFromAllRooms(): done n
+2022-09-05 11:42:20|removeFromAllRooms(): 38
+
+2022-09-05 11:42:20|removeFromAllRooms(): done n
+2022-09-05 11:57:38|BoostTCPServer::async_accept()
+2022-09-05 11:57:38|Connected client ID: 38 session: da96358c77c24278
+
+2022-09-05 12:16:53|BoostTCPServer::async_accept()
+2022-09-05 12:16:54|Connected client ID: 38 session: 4541228a9c0849e2
+
+2022-09-05 12:18:29|removeFromAllRooms(): 38
+
+2022-09-05 12:18:29|removeFromAllRooms(): done n
+2022-09-05 12:20:24|BoostTCPServer::async_accept()
+2022-09-05 12:20:24|Connected client ID: 38 session: 6900e71a840e9b43
+
+2022-09-05 12:28:08|removeFromAllRooms(): 38
+
+2022-09-05 12:28:08|removeFromAllRooms(): done n
+2022-09-05 12:39:43|BoostTCPServer::async_accept()
+2022-09-05 12:39:43|Connected client ID: 38 session: 60f6f675664184f0
+
+2022-09-05 12:40:47|removeFromAllRooms(): 38
+
+2022-09-05 12:40:47|removeFromAllRooms(): done n
+2022-09-05 12:41:46|BoostTCPServer::async_accept()
+2022-09-05 12:41:46|Connected client ID: 38 session: d4a05cbe57815ff2
+
+2022-09-05 12:57:55|removeFromAllRooms(): 38
+
+2022-09-05 12:57:55|removeFromAllRooms(): done n
+2022-09-05 12:58:21|BoostTCPServer::async_accept()
+2022-09-05 12:58:21|Connected client ID: 38 session: 8bb1213eb5fe37f3
+
+2022-09-05 13:08:24|removeFromAllRooms(): 38
+
+2022-09-05 13:08:24|removeFromAllRooms(): done n
+2022-09-05 13:08:52|BoostTCPServer::async_accept()
+2022-09-05 13:08:52|Connected client ID: 38 session: ed795a17a6dee3bb
+
+2022-09-05 13:09:44|removeFromAllRooms(): 38
+
+2022-09-05 13:09:44|removeFromAllRooms(): done n
+2022-09-05 13:14:35|BoostTCPServer::async_accept()
+2022-09-05 13:14:35|Connected client ID: 38 session: 92825638a4342f56
+
