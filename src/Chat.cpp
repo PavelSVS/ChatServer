@@ -678,7 +678,7 @@ void Chat::onMessageRedis(string chan, string msg, void* arg){
 //        reader->parse(msg.c_str(), msg.c_str() + msg.size(), &root, &errors); // разбираем сообщение на поля
 //        delete reader;
 //        reader = NULL;
-        string message = "{\"type\":\"broadcast\",\"id\":\"system/quest\",\"message\":" + msg + "}";
+        string message = "{\"type\":\"broadcast\",\"id\":\"system/quest\",\"data\":" + msg + "}";
         
         self->server.broadcast(message.data(), message.length(), false);
         //logMessage(LOGGER_DEBUG, "Bridge::onMessageRedis() %s", message.c_str());
