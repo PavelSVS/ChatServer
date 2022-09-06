@@ -30,11 +30,12 @@ Chat::Chat(){
     this->redisHost = "127.0.0.1";
     this->redisPort = 6379;
     this->redisChannel = "system";
+    this->redisPassword = "happyBird555";
     this->redis.setOnConnectCallback(onConnectRedis);
     this->redis.setOnSubscribeCallback(onSubscribeRedis);
     this->redis.setOnMessageCallback(onMessageRedis);
     
-    this->redis.init(this->redisHost, this->redisPort, this->redisChannel, "", this);   
+    this->redis.init(this->redisHost, this->redisPort, this->redisChannel, this->redisPassword, this);   
 }
 
 Chat::~Chat(){
